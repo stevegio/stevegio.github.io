@@ -1,0 +1,58 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+# - name: "[TITLE]"
+
+# - title: "[TITLE]"
+# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+# - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
+# - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
+# - markdown: kramdown
+# - user# - name: "[USERNAME]"
+
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "Steve Giovannetti"
+tagline: ""
+description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+baseurl: ""
+url: "http://gio.micro.blog"
+markdown: "kramdown"
+username: "gio"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Steve Giovannetti"
+name: "Steve Giovannetti"
+gravatar_hash: "e299436bb7512f8a1163d959157e5bda"
+avatar: "http://www.gravatar.com/avatar/e299436bb7512f8a1163d959157e5bda?s=160"
+full_name: "Steve Giovannetti"
+bio: ""
+twitter_username: ""
+github_username: ""
