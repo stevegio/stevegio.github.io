@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Steve Giovannetti</title>
+    <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
+    <link>http://gio.micro.blog/</link>
+    <pubDate>Thu, 27 Apr 2017 17:44:49 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Apr 2017 17:44:49 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;Greetings from gio.micro.blog!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Apr 2017 17:30:00 +0000</pubDate>
+        <link>http://gio.micro.blog/2017/04/27/greetings-from-giomicroblog.html</link>
+        <guid isPermaLink="true">http://gio.micro.blog/2017/04/27/greetings-from-giomicroblog.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Greetings!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Apr 2017 16:47:00 +0000</pubDate>
+        <link>http://gio.micro.blog/2017/04/27/greetings.html</link>
+        <guid isPermaLink="true">http://gio.micro.blog/2017/04/27/greetings.html</guid>
+      </item>
+    
+  </channel>
+</rss>
