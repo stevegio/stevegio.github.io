@@ -1,0 +1,22 @@
+{
+	"title": "Steve Giovannetti",
+	"home_page_url": "http://gio.micro.blog/",
+	"feed_url": "http://gio.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://gio.micro.blog/2017/04/27/greetings-from-giomicroblog.html",
+			"content_html": "<p>Greetings from gio.micro.blog!</p>\n",
+			"date_published": "2017-04-27T17:30:00+00:00",
+			"url": "http://gio.micro.blog/2017/04/27/greetings-from-giomicroblog.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2017/04/27/greetings.html",
+			"content_html": "<p>Greetings!</p>\n",
+			"date_published": "2017-04-27T16:47:00+00:00",
+			"url": "http://gio.micro.blog/2017/04/27/greetings.html"
+		}
+		
+	]
+}
