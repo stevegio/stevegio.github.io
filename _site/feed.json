@@ -5,6 +5,13 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2017/04/27/img-srcnull-width.html",
+			"content_html": "<p><img src=\"(null)\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-04-27T18:44:00+00:00",
+			"url": "http://gio.micro.blog/2017/04/27/img-srcnull-width.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2017/04/27/so-glad-to.html",
 			"content_html": "<p>So glad to see micro.blog is now up and running. Wiring things up now. Sorry for the extra noise. </p>\n",
 			"date_published": "2017-04-27T17:45:00+00:00",
