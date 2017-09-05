@@ -6,6 +6,13 @@ layout: default
     <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s microblog</span></a>
   </h1>
   <nav class="masthead-nav">
+	{% assign sorted_pages = site.pages | sort: "order" %}
+	{% for page in sorted_pages %}
+		{% if page.title %}
+			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+		{% endif %}
+	{% endfor %}
+
     {% for nav in site.nav %}
     <a href="{{ nav.href }}">{{ nav.name }}</a>
     {% endfor %}
@@ -15,7 +22,7 @@ layout: default
 {% if site.posts.size == 0 %}
   <h2>No post found</h2>
 {% else %}
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <div class="list-item h-entry">
     <div class="content post e-content">
       {{ post.content }}
@@ -27,6 +34,10 @@ layout: default
 {% endfor %}
 {% endif %}
 </div>
+
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
 
 <footer class="site-footer">
 	<p class="text">{{ site.description }}</p>
