@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-05-03 12:28
+microblog: true
+date: 2017-05-03 08:28 -0400
+guid: http://gio.micro.blog/2017/05/03/jimmy-vaughn-played.html
 ---
 Jimmy Vaughn played a great set last night in Austin.
 
