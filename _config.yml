@@ -56,7 +56,7 @@ full_name: "Steve Giovannetti"
 bio: ""
 twitter_username: ""
 github_username: ""
-instagram_username: ""
+instagram_username: "stevegio"
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Michigan"
