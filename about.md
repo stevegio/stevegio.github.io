@@ -1,6 +1,8 @@
 ---
+title: "About"
+permalink: "/about/"
 layout: page
-title: About
-permalink: /about/
+order: 1
+date: 2017-09-05 16:42 -0400
 ---
-Nerd from NJ. Proud dad. CTO of a security consultancy.
+A microblog by Steve Giovannetti.
