@@ -1,6 +1,8 @@
 ---
 layout: post
-date: 2017-04-29 19:38
+microblog: true
+date: 2017-04-29 15:38 -0400
+guid: http://gio.micro.blog/2017/04/29/parmigiano-reggiano-the.html
 ---
 Parmigiano Reggiano - The undisputed King of Cheeses. 
 
