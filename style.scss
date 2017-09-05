@@ -231,6 +231,7 @@ pre code {
 img {
   display: block;
   max-width: 100%;
+  height: auto;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
@@ -441,4 +442,12 @@ tbody tr:nth-child(odd) th {
 
 .site-footer a {
   color: black;
+}
+
+#post-nav {
+	padding-top: 25px;
+}
+
+#post-nav .prev {
+	padding-right: 10px;
 }
