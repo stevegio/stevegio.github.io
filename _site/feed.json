@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2017/11/20/i-gotta-wire.html",
+	      	
+			"content_html": "<p>I gotta wire this thing up to Wordpress.</p>\n",
+			"date_published": "2017-11-20T18:24:00-05:00",
+			"url": "http://gio.micro.blog/2017/11/20/i-gotta-wire.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2017/05/18/i-wonder-if.html",
 	      	
 			"content_html": "<p>I wonder if the FBI is getting calls from John Miller.</p>\n",
-			"date_published": "2017-05-18T05:55:00-04:00",
+			"date_published": "2017-05-18T04:55:00-05:00",
 			"url": "http://gio.micro.blog/2017/05/18/i-wonder-if.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://gio.micro.blog/2017/05/15/img-srchttpgiomicrobloguploadsbefejpg-width.html",
 	      	
 			"content_html": "<p><img src=\"http://gio.micro.blog/uploads/2017/6b7e58f7e7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-15T10:02:00-04:00",
+			"date_published": "2017-05-15T09:02:00-05:00",
 			"url": "http://gio.micro.blog/2017/05/15/img-srchttpgiomicrobloguploadsbefejpg-width.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://gio.micro.blog/2017/05/03/jimmy-vaughn-last.html",
 	      	
 			"content_html": "<p>Jimmy Vaughn last night in #Austin</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/3d96cad030.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-03T08:32:00-04:00",
+			"date_published": "2017-05-03T07:32:00-05:00",
 			"url": "http://gio.micro.blog/2017/05/03/jimmy-vaughn-last.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://gio.micro.blog/2017/05/03/jimmy-vaughn-played.html",
 	      	
 			"content_html": "<p>Jimmy Vaughn played a great set last night in Austin.</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/d162ae721f.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-03T08:28:00-04:00",
+			"date_published": "2017-05-03T07:28:00-05:00",
 			"url": "http://gio.micro.blog/2017/05/03/jimmy-vaughn-played.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://gio.micro.blog/2017/05/03/when-i-first.html",
 	      	
 			"content_html": "<p>When I first heard the Clash’s “Guns of Britton” I thought they were singing “Oh ho…Doctor Guzman!”.</p>\n",
-			"date_published": "2017-05-03T08:25:00-04:00",
+			"date_published": "2017-05-03T07:25:00-05:00",
 			"url": "http://gio.micro.blog/2017/05/03/when-i-first.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://gio.micro.blog/2017/05/01/i-never-thought.html",
 	      	
 			"content_html": "<p>I never thought I’d be so excited about watching the development of our delegated admin app. #IAM #grin</p>\n",
-			"date_published": "2017-05-01T18:16:00-04:00",
+			"date_published": "2017-05-01T17:16:00-05:00",
 			"url": "http://gio.micro.blog/2017/05/01/i-never-thought.html"
 		},
 		
@@ -57,7 +65,7 @@
 			"id": "http://gio.micro.blog/2017/05/01/inbox-is-pretty.html",
 	      	
 			"content_html": "<p>Inbox 7 is pretty good, right?</p>\n",
-			"date_published": "2017-05-01T17:24:00-04:00",
+			"date_published": "2017-05-01T16:24:00-05:00",
 			"url": "http://gio.micro.blog/2017/05/01/inbox-is-pretty.html"
 		},
 		
@@ -65,7 +73,7 @@
 			"id": "http://gio.micro.blog/2017/04/29/great-caesars-ghost.html",
 	      	
 			"content_html": "<p>Great Caesar’s Ghost! Who knew Goslings Diet Ginger Beer was a thing?!? Tasty!</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/fc6a2e959e.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-04-29T16:55:00-04:00",
+			"date_published": "2017-04-29T15:55:00-05:00",
 			"url": "http://gio.micro.blog/2017/04/29/great-caesars-ghost.html"
 		},
 		
@@ -73,16 +81,8 @@
 			"id": "http://gio.micro.blog/2017/04/29/parmigiano-reggiano-the.html",
 	      	
 			"content_html": "<p>Parmigiano Reggiano - The undisputed King of Cheeses. </p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/8f3134a48a.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-04-29T15:38:00-04:00",
+			"date_published": "2017-04-29T14:38:00-05:00",
 			"url": "http://gio.micro.blog/2017/04/29/parmigiano-reggiano-the.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2017/04/29/the-nice-thing.html",
-	      	
-			"content_html": "<p>The nice thing about taking your kid to her sat morning FIT class is having a some quality time in Chelsea.</p>\n",
-			"date_published": "2017-04-29T10:10:00-04:00",
-			"url": "http://gio.micro.blog/2017/04/29/the-nice-thing.html"
 		}
 		
 	]
