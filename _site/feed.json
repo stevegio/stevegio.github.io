@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2017/12/27/testingjust-doing-some.html",
+	      	
+			"content_html": "<p>Testing</p>\n\n<p>Just doing some work on the plumbing folks. Sorry for the clutter.</p>\n",
+			"date_published": "2017-12-27T10:32:00-05:00",
+			"url": "https://gio.micro.blog/2017/12/27/testingjust-doing-some.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2017/12/27/fun-break-activities.html",
 	      	
 			"content_html": "<p>Fun break activities:\n1. Pokémon Go\n2. Destiny 2\n3. Geocaching \n4. Teaching my youngest daughter to drive.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Jimmy Vaughn played a great set last night in Austin.</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/d162ae721f.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-05-03T07:28:00-05:00",
 			"url": "https://gio.micro.blog/2017/05/03/jimmy-vaughn-played.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2017/05/03/when-i-first.html",
-	      	
-			"content_html": "<p>When I first heard the Clash’s “Guns of Britton” I thought they were singing “Oh ho…Doctor Guzman!”.</p>\n",
-			"date_published": "2017-05-03T07:25:00-05:00",
-			"url": "https://gio.micro.blog/2017/05/03/when-i-first.html"
 		}
 		
 	]
