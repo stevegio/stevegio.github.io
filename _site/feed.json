@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/01/happy-new-year.html",
+	      	
+			"content_html": "<p>Happy New Year!</p>\n",
+			"date_published": "2018-01-01T00:02:00-05:00",
+			"url": "https://gio.micro.blog/2018/01/01/happy-new-year.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2017/12/31/todays-sea-glass.html",
 	      	
 			"content_html": "<p>Today’s Sea Glass Haul</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/7c9b3a4e16.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Now that The Christmas holiday is over I’m settling in for a bit of R&amp;R. A few research projects, cooking, and video games all on the agenda.</p>\n",
 			"date_published": "2017-12-26T08:05:00-05:00",
 			"url": "https://gio.micro.blog/2017/12/26/now-that-the.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2017/11/21/trying-the-new.html",
-	      	
-			"content_html": "<p>Trying the new micro.blog mac os app. Pretty nice. </p>\n",
-			"date_published": "2017-11-20T21:28:00-05:00",
-			"url": "https://gio.micro.blog/2017/11/20/trying-the-new.html"
 		}
 		
 	]
