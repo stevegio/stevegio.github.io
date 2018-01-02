@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/02/whew-reentry-is.html",
+	      	
+			"content_html": "<p><em>Whew</em> Re-entry is a bitch.</p>\n",
+			"date_published": "2018-01-02T16:43:00-05:00",
+			"url": "https://gio.micro.blog/2018/01/02/whew-reentry-is.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/01/made-a-delicious.html",
 	      	
 			"content_html": "<p>Made a delicious batch of carnitas for New Year’s Eve. What did you eat?</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2018/77c05441b8.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Fun break activities:\n1. Pokémon Go\n2. Destiny 2\n3. Geocaching \n4. Teaching my youngest daughter to drive.</p>\n",
 			"date_published": "2017-12-27T09:34:00-05:00",
 			"url": "https://gio.micro.blog/2017/12/27/fun-break-activities.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2017/12/26/131026.html",
-	      	
-			"content_html": "<p><img src=\"http://gio.micro.blog/uploads/2017/49c0c38395.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-26T08:10:00-05:00",
-			"url": "https://gio.micro.blog/2017/12/26/131026.html"
 		}
 		
 	]
