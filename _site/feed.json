@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/03/highly-recommend-these.html",
+	      	
+			"content_html": "<p>Highly recommend these North Face E-Tip gloves. They are thin (almost mitten liner thin) but they keep my hands warm and work well on touch screen devices.</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2018/9ae50ea827.jpg\" width=\"599\" height=\"600\" /><img src=\"http://gio.micro.blog/uploads/2018/04645e4da6.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-03T11:10:00-05:00",
+			"url": "https://gio.micro.blog/2018/01/03/highly-recommend-these.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/02/whew-reentry-is.html",
 	      	
 			"content_html": "<p><em>Whew</em> Re-entry is a bitch.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Teaching daughter to drive. Just returned from lesson #1. Car and father-daughter relationship still undamaged. I’d call that a success. </p>\n",
 			"date_published": "2017-12-27T17:49:00-05:00",
 			"url": "https://gio.micro.blog/2017/12/27/teaching-daughter-to.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2017/12/27/fun-break-activities.html",
-	      	
-			"content_html": "<p>Fun break activities:\n1. Pokémon Go\n2. Destiny 2\n3. Geocaching \n4. Teaching my youngest daughter to drive.</p>\n",
-			"date_published": "2017-12-27T09:34:00-05:00",
-			"url": "https://gio.micro.blog/2017/12/27/fun-break-activities.html"
 		}
 		
 	]
