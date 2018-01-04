@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Steve Giovannetti",
-	"home_page_url": "https://gio.micro.blog/",
-	"feed_url": "https://gio.micro.blog/feed.json",
+	"home_page_url": "http://microblog.stevegio.net/",
+	"feed_url": "http://microblog.stevegio.net/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>Highly recommend these North Face E-Tip gloves. They are thin (almost mitten liner thin) but they keep my hands warm and work well on touch screen devices.</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2018/9ae50ea827.jpg\" width=\"599\" height=\"600\" /><img src=\"http://gio.micro.blog/uploads/2018/04645e4da6.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-03T11:10:00-05:00",
-			"url": "https://gio.micro.blog/2018/01/03/highly-recommend-these.html"
+			"url": "http://microblog.stevegio.net/2018/01/03/highly-recommend-these.html"
 		},
 		
 		{
@@ -18,7 +18,7 @@
 	      	
 			"content_html": "<p><em>Whew</em> Re-entry is a bitch.</p>\n",
 			"date_published": "2018-01-02T16:43:00-05:00",
-			"url": "https://gio.micro.blog/2018/01/02/whew-reentry-is.html"
+			"url": "http://microblog.stevegio.net/2018/01/02/whew-reentry-is.html"
 		},
 		
 		{
@@ -26,7 +26,7 @@
 	      	
 			"content_html": "<p>Made a delicious batch of carnitas for New Year’s Eve. What did you eat?</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2018/77c05441b8.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-01-01T08:02:00-05:00",
-			"url": "https://gio.micro.blog/2018/01/01/made-a-delicious.html"
+			"url": "http://microblog.stevegio.net/2018/01/01/made-a-delicious.html"
 		},
 		
 		{
@@ -34,7 +34,7 @@
 	      	
 			"content_html": "<p>Happy New Year!</p>\n",
 			"date_published": "2018-01-01T00:02:00-05:00",
-			"url": "https://gio.micro.blog/2018/01/01/happy-new-year.html"
+			"url": "http://microblog.stevegio.net/2018/01/01/happy-new-year.html"
 		},
 		
 		{
@@ -42,7 +42,7 @@
 	      	
 			"content_html": "<p>Today’s Sea Glass Haul</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/7c9b3a4e16.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-31T12:33:00-05:00",
-			"url": "https://gio.micro.blog/2017/12/31/todays-sea-glass.html"
+			"url": "http://microblog.stevegio.net/2017/12/31/todays-sea-glass.html"
 		},
 		
 		{
@@ -50,7 +50,7 @@
 	      	
 			"content_html": "<p><img src=\"http://gio.micro.blog/uploads/2017/42f5165901.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-31T09:14:00-05:00",
-			"url": "https://gio.micro.blog/2017/12/31/141407.html"
+			"url": "http://microblog.stevegio.net/2017/12/31/141407.html"
 		},
 		
 		{
@@ -58,7 +58,7 @@
 	      	
 			"content_html": "<p>Kelly “Old Barney” Restaurant at Barnegat Light, NJ</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/4a4506c9f7.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-30T10:45:00-05:00",
-			"url": "https://gio.micro.blog/2017/12/30/kelly-old-barney.html"
+			"url": "http://microblog.stevegio.net/2017/12/30/kelly-old-barney.html"
 		},
 		
 		{
@@ -66,7 +66,7 @@
 	      	
 			"content_html": "<p>Snow at Barnegat Light, NJ</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/8019c0ec64.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-30T10:32:00-05:00",
-			"url": "https://gio.micro.blog/2017/12/30/snow-at-barnegat.html"
+			"url": "http://microblog.stevegio.net/2017/12/30/snow-at-barnegat.html"
 		},
 		
 		{
@@ -74,7 +74,7 @@
 	      	
 			"content_html": "<p>Barnegat Light, NJ</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/742c6c1ccd.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-30T10:31:00-05:00",
-			"url": "https://gio.micro.blog/2017/12/30/barnegat-light-nj.html"
+			"url": "http://microblog.stevegio.net/2017/12/30/barnegat-light-nj.html"
 		},
 		
 		{
@@ -82,7 +82,7 @@
 	      	
 			"content_html": "<p>Teaching daughter to drive. Just returned from lesson #1. Car and father-daughter relationship still undamaged. I’d call that a success. </p>\n",
 			"date_published": "2017-12-27T17:49:00-05:00",
-			"url": "https://gio.micro.blog/2017/12/27/teaching-daughter-to.html"
+			"url": "http://microblog.stevegio.net/2017/12/27/teaching-daughter-to.html"
 		}
 		
 	]
