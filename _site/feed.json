@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/04/central-nj-has.html",
+	      	
+			"content_html": "<p>Central NJ has a snow day today. The office is going to be empty. Shaping up to be a really productive day!</p>\n",
+			"date_published": "2018-01-04T06:52:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/04/central-nj-has.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/04/breaking-out-my.html",
 	      	
 			"content_html": "<p>Breaking out my summer clothes! It’s 25 degrees Fahrenheit this morning!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Snow at Barnegat Light, NJ</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/8019c0ec64.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-30T10:32:00-05:00",
 			"url": "http://microblog.stevegio.net/2017/12/30/snow-at-barnegat.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2017/12/30/barnegat-light-nj.html",
-	      	
-			"content_html": "<p>Barnegat Light, NJ</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/742c6c1ccd.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-30T10:31:00-05:00",
-			"url": "http://microblog.stevegio.net/2017/12/30/barnegat-light-nj.html"
 		}
 		
 	]
