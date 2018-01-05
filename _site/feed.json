@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/05/listening-to-hypnotic.html",
+	      	
+			"content_html": "<p>Listening to <a href=\"https://itunes.apple.com/us/album/purple-afternoon/1305831258?i=1305831278\">Hypnotic Brass Ensemble - Purple Afternoon</a></p>\n",
+			"date_published": "2018-01-05T07:06:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/05/listening-to-hypnotic.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/04/dark-sky-letting.html",
 	      	
 			"content_html": "<p>Dark Sky letting me down today. Weather Underground wins the App of the Bomb Snow Vortex 2018.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Today’s Sea Glass Haul</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/7c9b3a4e16.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-31T12:33:00-05:00",
 			"url": "http://microblog.stevegio.net/2017/12/31/todays-sea-glass.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2017/12/31/141407.html",
-	      	
-			"content_html": "<p><img src=\"http://gio.micro.blog/uploads/2017/42f5165901.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-31T09:14:00-05:00",
-			"url": "http://microblog.stevegio.net/2017/12/31/141407.html"
 		}
 		
 	]
