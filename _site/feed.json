@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/05/my-first-fountain.html",
+	      	
+			"content_html": "<p>My first fountain pen. A TWSBI ECO with a fine nib. It’s filled with Noodler’s Forest Green Ink. (I blame @dowdyism and <a href=\"https://micro.blog/imyke\">@imyke</a>)</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/f491a5692b.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-01-05T14:58:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/05/my-first-fountain.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/05/listening-to-hypnotic.html",
 	      	
 			"content_html": "<p>Listening to <a href=\"https://itunes.apple.com/us/album/purple-afternoon/1305831258?i=1305831278\">Hypnotic Brass Ensemble - Purple Afternoon</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Happy New Year!</p>\n",
 			"date_published": "2018-01-01T00:02:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/01/happy-new-year.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2017/12/31/todays-sea-glass.html",
-	      	
-			"content_html": "<p>Today’s Sea Glass Haul</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2017/7c9b3a4e16.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-31T12:33:00-05:00",
-			"url": "http://microblog.stevegio.net/2017/12/31/todays-sea-glass.html"
 		}
 		
 	]
