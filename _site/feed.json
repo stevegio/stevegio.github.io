@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/10/after-some-reflection.html",
+	      	
+			"content_html": "<p>After some reflection, I really disliked season 4 episode 1 of Black Mirror. Interesting concept but in the end it was predictable and inconsequential.</p>\n",
+			"date_published": "2018-01-10T07:09:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/10/after-some-reflection.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/08/234147.html",
 	      	
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/c267118a31.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Highly recommend these North Face E-Tip gloves. They are thin (almost mitten liner thin) but they keep my hands warm and work well on touch screen devices.</p>\n\n<p><img src=\"http://gio.micro.blog/uploads/2018/9ae50ea827.jpg\" width=\"599\" height=\"600\" /><img src=\"http://gio.micro.blog/uploads/2018/04645e4da6.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-03T11:10:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/03/highly-recommend-these.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/02/whew-reentry-is.html",
-	      	
-			"content_html": "<p><em>Whew</em> Re-entry is a bitch.</p>\n",
-			"date_published": "2018-01-02T16:43:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/01/02/whew-reentry-is.html"
 		}
 		
 	]
