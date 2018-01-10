@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/10/twitter-usage-way.html",
+	      	
+			"content_html": "<p>Twitter usage way down for me so far this month and will likely stay that way for 2018. Still monitoring for DMs from friends and family but not checking my timeline at all. Hoping to move completely to micro.blog for the foreseeable future. </p>\n",
+			"date_published": "2018-01-10T17:30:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/10/twitter-usage-way.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/10/175732.html",
 	      	
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/album/the-conservation-of-energy/1129249532?i=1129250066\">Conservation of Energy</a> by Vanishing Twin is real groovy man. 🎵</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Snowy day at the HCM offices.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/d9b850b515.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-04T10:06:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/04/snowy-day-at.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/04/central-nj-has.html",
-	      	
-			"content_html": "<p>Central NJ has a snow day today. The office is going to be empty. Shaping up to be a really productive day!</p>\n",
-			"date_published": "2018-01-04T06:52:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/01/04/central-nj-has.html"
 		}
 		
 	]
