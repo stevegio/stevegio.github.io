@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/11/answer-the-question.html",
+	      	
+			"title": "Answer the Question",
+			
+			"content_html": "<p><a href=\"http://www.chicagotribune.com/news/nationworld/politics/ct-us-ambassador-netherlands-hoekstra-20180110-story.html\">‘This is the Netherlands, you have to answer questions’: U.S. ambassador offers uncomfortable silence</a></p>\n\n<p>This is what I wish US Media would do. If a politician tries to dodge a question the next reporter should ask the same question until it’s answered. </p>\n",
+			"date_published": "2018-01-11T08:53:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/11/answer-the-question.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/11/every-s-a.html",
 	      	
 			"content_html": "<p>🎵<a href=\"https://itunes.apple.com/us/album/every-1s-a-winner/1318412439?i=1318412572\">Every 1s A Winner - Ty Segall</a> is a great cover of the Hot Chocolate classic.</p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>East Coast Pigeons are Tough</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/abb309efa4.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-07T11:16:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/07/east-coast-pigeons.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/05/my-first-fountain.html",
-	      	
-			"content_html": "<p>My first fountain pen. A TWSBI ECO with a fine nib. It’s filled with Noodler’s Forest Green Ink. (I blame @dowdyism and <a href=\"https://micro.blog/imyke\">@imyke</a>)</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/f491a5692b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-05T14:58:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/01/05/my-first-fountain.html"
 		}
 		
 	]
