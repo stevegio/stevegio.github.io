@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/12/new-pen-pilot.html",
+	      	
+			"content_html": "<p>New pen! Pilot Prera Slate Grey Fine Nib. Currently loaded with Iroshizokku Kon-peki ink.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/d17b7878a9.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-12T09:39:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/12/new-pen-pilot.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/11/answer-the-question.html",
 	      	
 			"title": "Answer the Question",
@@ -77,14 +85,6 @@
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/c267118a31.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-08T18:41:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/08/234147.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/07/east-coast-pigeons.html",
-	      	
-			"content_html": "<p>East Coast Pigeons are Tough</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/abb309efa4.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-07T11:16:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/01/07/east-coast-pigeons.html"
 		}
 		
 	]
