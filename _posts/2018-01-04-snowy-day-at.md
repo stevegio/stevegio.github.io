@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-04 10:06 -0500
+date: 2018-01-04 09:06 -0600
 guid: http://gio.micro.blog/2018/01/04/snowy-day-at.html
 ---
 Snowy day at the HCM offices.
