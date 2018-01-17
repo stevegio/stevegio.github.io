@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-10 20:26 -0500
+date: 2018-01-10 19:26 -0600
 guid: http://gio.micro.blog/2018/01/11/dreaming-of-summer.html
 ---
 Dreaming of Summer
