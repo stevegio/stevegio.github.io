@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/01/17/well-done-is.html",
+	      	
+			"content_html": "<p>“Well done is better than well said.” – Benjamin Franklin</p>\n",
+			"date_published": "2018-01-17T07:07:00-06:00",
+			"url": "http://microblog.stevegio.net/2018/01/17/well-done-is.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/17/the-electric-state.html",
 	      	
 			"title": "The Electric State Movie",
@@ -79,14 +87,6 @@
 			"content_html": "<p>My hopper looks like a tricked out SUBARU WRX. 🤡</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/37414647ad.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-10T20:57:00-06:00",
 			"url": "http://microblog.stevegio.net/2018/01/10/my-hopper-looks.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/11/dreaming-of-summer.html",
-	      	
-			"content_html": "<p>Dreaming of Summer</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/ce60781fbb.jpg\" width=\"600\" height=\"337\" /></p>\n",
-			"date_published": "2018-01-10T19:26:00-06:00",
-			"url": "http://microblog.stevegio.net/2018/01/10/dreaming-of-summer.html"
 		}
 		
 	]
