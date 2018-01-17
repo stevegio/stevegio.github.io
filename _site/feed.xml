@@ -4,8 +4,17 @@
     <title>Steve Giovannetti</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/gio&quot;&gt;@gio on Micro.blog&lt;/a&gt;.</description>
     <link>http://microblog.stevegio.net/</link>
-    <pubDate>Wed, 17 Jan 2018 07:02:43 -0600</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2018 07:02:43 -0600</lastBuildDate>
+    <pubDate>Wed, 17 Jan 2018 07:07:54 -0600</pubDate>
+    <lastBuildDate>Wed, 17 Jan 2018 07:07:54 -0600</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;“Well done is better than well said.” – Benjamin Franklin&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Jan 2018 07:07:00 -0600</pubDate>
+        <link>http://microblog.stevegio.net/2018/01/17/well-done-is.html</link>
+        <guid isPermaLink="true">http://gio.micro.blog/2018/01/17/well-done-is.html</guid>
+      </item>
     
       <item>
       	
@@ -499,17 +508,6 @@ If you haven’t seen this book, go get it. It will blow your mind. 🤯&lt;/p&g
         <pubDate>Thu, 27 Apr 2017 13:08:00 -0600</pubDate>
         <link>http://microblog.stevegio.net/2017/04/27/testing-image-editing.html</link>
         <guid isPermaLink="true">http://gio.micro.blog/2017/04/27/testing-image-editing.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Testing image posts.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://gio.micro.blog/uploads/2017/60a617501a.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 27 Apr 2017 13:04:00 -0600</pubDate>
-        <link>http://microblog.stevegio.net/2017/04/27/testing-image-postsimg.html</link>
-        <guid isPermaLink="true">http://gio.micro.blog/2017/04/27/testing-image-postsimg.html</guid>
       </item>
     
   </channel>
