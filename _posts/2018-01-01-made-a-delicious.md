@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-01 08:02 -0500
+date: 2018-01-01 07:02 -0600
 guid: http://gio.micro.blog/2018/01/01/made-a-delicious.html
 ---
 Made a delicious batch of carnitas for New Year’s Eve. What did you eat?
