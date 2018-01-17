@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-07 11:16 -0500
+date: 2018-01-07 10:16 -0600
 guid: http://gio.micro.blog/2018/01/07/east-coast-pigeons.html
 ---
 East Coast Pigeons are Tough
