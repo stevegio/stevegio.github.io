@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-03 07:32 -0500
+date: 2017-05-03 06:32 -0600
 guid: http://gio.micro.blog/2017/05/03/jimmy-vaughn-last.html
 ---
 Jimmy Vaughn last night in #Austin
