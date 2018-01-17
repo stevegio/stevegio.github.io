@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-30 10:32 -0500
+date: 2017-12-30 09:32 -0600
 guid: http://gio.micro.blog/2017/12/30/snow-at-barnegat.html
 ---
 Snow at Barnegat Light, NJ
