@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/02/01/first-letter-for.html",
+	      	
+			"content_html": "<p>First letter for <a href=\"https://incowrimo.org\">InCoWriMo</a> written and mailed! Hope I can keep it going for the entire month.</p>\n",
+			"date_published": "2018-02-01T15:00:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/01/first-letter-for.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/01/27/222001.html",
 	      	
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/f1edc66059.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -77,16 +85,6 @@
 			"content_html": "<p>New pen! Pilot Prera Slate Grey Fine Nib. Currently loaded with Iroshizokku Kon-peki ink.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/d17b7878a9.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-12T09:39:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/12/new-pen-pilot.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/11/answer-the-question.html",
-	      	
-			"title": "Answer the Question",
-			
-			"content_html": "<p><a href=\"http://www.chicagotribune.com/news/nationworld/politics/ct-us-ambassador-netherlands-hoekstra-20180110-story.html\">‘This is the Netherlands, you have to answer questions’: U.S. ambassador offers uncomfortable silence</a></p>\n\n<p>This is what I wish US Media would do. If a politician tries to dodge a question the next reporter should ask the same question until it’s answered. </p>\n",
-			"date_published": "2018-01-11T08:53:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/01/11/answer-the-question.html"
 		}
 		
 	]
