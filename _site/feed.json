@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/02/06/225730.html",
+	      	
+			"content_html": "<p>Jim Carrey <a href=\"https://www.cnbc.com/2018/02/06/comedian-jim-carrey-delete-your-facebook-account-and-dump-the-stock.html?__source=facebook%7Ctech\">asking</a> investors to dump their Facebook stock and for people to delete their accounts. Doesn’t seem to be swaying many because the price is pretty close to its 52 week high.</p>\n",
+			"date_published": "2018-02-06T17:57:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/06/225730.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/02/06/flying-with-fountain.html",
 	      	
 			"content_html": "<p>Flying with Fountain Pens</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/cbb9a229db.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Now that’s what I call a movie theater.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/582e1b7762.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-16T19:21:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/16/now-thats-what.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/16/old-barney-in.html",
-	      	
-			"content_html": "<p>Old Barney in the Snow</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/24e500e03d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-16T16:17:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/01/16/old-barney-in.html"
 		}
 		
 	]
