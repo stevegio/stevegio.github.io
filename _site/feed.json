@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/02/13/earlier-than-normal.html",
+	      	
+			"content_html": "<p>Earlier than normal start. Off to Memphis for the day. This is the business we have chosen…</p>\n",
+			"date_published": "2018-02-13T06:04:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/13/earlier-than-normal.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/02/11/lucky-thirteen-entering.html",
 	      	
 			"content_html": "<p>Lucky Thirteen entering Barnegat Inlet, Barnegat Light, NJ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/2b7803d847.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>There is something so <a href=\"https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf\">tilde club</a> about this whole micro.blog thing.</p>\n",
 			"date_published": "2018-02-02T09:05:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/02/02/there-is-something.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/02/01/first-letter-for.html",
-	      	
-			"content_html": "<p>First letter for <a href=\"https://incowrimo.org\">InCoWriMo</a> written and mailed! Hope I can keep it going for the entire month.</p>\n",
-			"date_published": "2018-02-01T15:00:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/02/01/first-letter-for.html"
 		}
 		
 	]
