@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/02/13/nothing-quite-says.html",
+	      	
+			"content_html": "<p>Nothing quite says, “Fuck it.” Like a big piece of carrot cake for breakfast.</p>\n",
+			"date_published": "2018-02-13T07:47:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/13/nothing-quite-says.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/02/13/earlier-than-normal.html",
 	      	
 			"content_html": "<p>Earlier than normal start. Off to Memphis for the day. This is the business we have chosen…</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Trying to get used to my Philadelphia Eagles being Super Bowl Champs. Still waiting for the highlight reel/Always Sunny crossover. “The Gang Wins the Super Bowl”. 🏈</p>\n",
 			"date_published": "2018-02-06T06:13:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/02/06/trying-to-get.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/02/02/there-is-something.html",
-	      	
-			"content_html": "<p>There is something so <a href=\"https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf\">tilde club</a> about this whole micro.blog thing.</p>\n",
-			"date_published": "2018-02-02T09:05:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/02/02/there-is-something.html"
 		}
 		
 	]
