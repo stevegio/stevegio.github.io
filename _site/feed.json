@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/02/18/really-enjoying-my.html",
+	      	
+			"content_html": "<p>Really enjoying my time in Edinburgh. The sights, sounds, and <em>food</em>. Yes, food. The UK has upped its food game. I am also in love with <a href=\"https://en.m.wikipedia.org/wiki/Haggis\">Haggis</a>. I’ve enjoyed it three times in the last 24 hours.</p>\n",
+			"date_published": "2018-02-18T16:12:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/18/really-enjoying-my.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/02/18/the-other-half.html",
 	      	
 			"content_html": "<p>The other half is in my belly.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/e7d7eb6c6d.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>RIP John Perry Barlow, EFF Founder and lyricist for the Grateful Dead.</p>\n",
 			"date_published": "2018-02-08T01:56:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/02/08/rip-john-perry.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/02/06/just-finished-cannery.html",
-	      	
-			"content_html": "<p>Just finished “Cannery Row” by John Steinbeck. I’m not sure why but I’ve seemed to avoided reading it until now. I loved it. 📚</p>\n",
-			"date_published": "2018-02-06T18:02:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/02/06/just-finished-cannery.html"
 		}
 		
 	]
