@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/02/19/just-purchased-and.html",
+	      	
+			"content_html": "<p>Just purchased and now reading in Edinburgh. 📚</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/b96d79abc1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-19T10:54:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/19/just-purchased-and.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/02/18/hollyrood-abbey-edinburgh.html",
 	      	
 			"content_html": "<p>Hollyrood Abbey, Edinburgh </p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/8445f9dcbd.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -83,6 +91,120 @@
 			"content_html": "<p>This is our sea glass hole drilling rig.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/5902a533f1.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-10T12:22:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/02/10/this-is-our.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/02/08/rip-john-perry.html",
+	      	
+			"content_html": "<p>RIP John Perry Barlow, EFF Founder and lyricist for the Grateful Dead.</p>\n",
+			"date_published": "2018-02-08T01:56:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/08/rip-john-perry.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/02/06/just-finished-cannery.html",
+	      	
+			"content_html": "<p>Just finished “Cannery Row” by John Steinbeck. I’m not sure why but I’ve seemed to avoided reading it until now. I loved it. 📚</p>\n",
+			"date_published": "2018-02-06T18:02:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/06/just-finished-cannery.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/02/06/225730.html",
+	      	
+			"content_html": "<p>Jim Carrey <a href=\"https://www.cnbc.com/2018/02/06/comedian-jim-carrey-delete-your-facebook-account-and-dump-the-stock.html?__source=facebook%7Ctech\">asking</a> investors to dump their Facebook stock and for people to delete their accounts. Doesn’t seem to be swaying many because the price is pretty close to its 52 week high.</p>\n",
+			"date_published": "2018-02-06T17:57:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/06/225730.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/02/06/flying-with-fountain.html",
+	      	
+			"content_html": "<p>Flying with Fountain Pens</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/cbb9a229db.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-06T07:10:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/06/flying-with-fountain.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/02/06/trying-to-get.html",
+	      	
+			"content_html": "<p>Trying to get used to my Philadelphia Eagles being Super Bowl Champs. Still waiting for the highlight reel/Always Sunny crossover. “The Gang Wins the Super Bowl”. 🏈</p>\n",
+			"date_published": "2018-02-06T06:13:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/06/trying-to-get.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/02/02/there-is-something.html",
+	      	
+			"content_html": "<p>There is something so <a href=\"https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf\">tilde club</a> about this whole micro.blog thing.</p>\n",
+			"date_published": "2018-02-02T09:05:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/02/there-is-something.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/02/01/first-letter-for.html",
+	      	
+			"content_html": "<p>First letter for <a href=\"https://incowrimo.org\">InCoWriMo</a> written and mailed! Hope I can keep it going for the entire month.</p>\n",
+			"date_published": "2018-02-01T15:00:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/01/first-letter-for.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/01/27/222001.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/f1edc66059.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-27T17:20:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/27/222001.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/01/24/i-took-several.html",
+	      	
+			"content_html": "<p>I took several flights last week carrying a fountain pen. No ink mishaps or leaks. Today I’m toting three inked pens (2 piston  and 1 cartridge). Pushing my luck? 🖋</p>\n",
+			"date_published": "2018-01-24T12:10:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/24/i-took-several.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/01/17/well-done-is.html",
+	      	
+			"content_html": "<p>“Well done is better than well said.” – Benjamin Franklin</p>\n",
+			"date_published": "2018-01-17T08:07:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/17/well-done-is.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/01/17/the-electric-state.html",
+	      	
+			"title": "The Electric State Movie",
+			
+			"content_html": "<p>Wow <a href=\"https://www.kickstarter.com/projects/1192053011/the-electric-state-simon-stalenhags-new-narrative\">The Electric State</a> by @simonstalenhag on track to become a <a href=\"http://deadline.com/2017/12/the-electric-state-andy-muschietti-russo-brothers-simon-stalenhag-1202227395/\">movie</a>!?!\nIf you haven’t seen this book, go get it. It will blow your mind. 🤯</p>\n",
+			"date_published": "2018-01-17T08:02:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/17/the-electric-state.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/01/17/now-thats-what.html",
+	      	
+			"content_html": "<p>Now that’s what I call a movie theater.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/582e1b7762.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-16T19:21:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/16/now-thats-what.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/01/16/old-barney-in.html",
+	      	
+			"content_html": "<p>Old Barney in the Snow</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/24e500e03d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-16T16:17:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/16/old-barney-in.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/01/16/bird-truck-stop.html",
+	      	
+			"content_html": "<p>Bird Truck Stop</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/0ecc5eb944.jpg\" width=\"329\" height=\"329\" /></p>\n",
+			"date_published": "2018-01-16T16:15:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/01/16/bird-truck-stop.html"
 		}
 		
 	]
