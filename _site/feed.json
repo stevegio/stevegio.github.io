@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/02/28/arrived-in-phoenix.html",
+	      	
+			"content_html": "<p>Arrived in Phoenix last night in the rain. Never experienced that. Normally I land at 10:30pm and it’s 95F and dry as a bone. 💀</p>\n",
+			"date_published": "2018-02-28T11:29:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/28/arrived-in-phoenix.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/02/27/can-we-get.html",
 	      	
 			"content_html": "<p>Can we get some public funding for day care?</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/6e5341c6c0.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I took several flights last week carrying a fountain pen. No ink mishaps or leaks. Today I’m toting three inked pens (2 piston  and 1 cartridge). Pushing my luck? 🖋</p>\n",
 			"date_published": "2018-01-24T12:10:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/24/i-took-several.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/17/well-done-is.html",
-	      	
-			"content_html": "<p>“Well done is better than well said.” – Benjamin Franklin</p>\n",
-			"date_published": "2018-01-17T08:07:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/01/17/well-done-is.html"
 		}
 		
 	]
