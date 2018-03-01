@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/03/01/ive-been-immortalized.html",
+	      	
+			"content_html": "<p>I’ve been immortalized by my favorite podcast 😀 Thanks <a href=\"https://micro.blog/imyke\">@imyke</a> and @dowdyism!</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/ad116eb8bd.jpg\" width=\"284\" height=\"283\" /></p>\n",
+			"date_published": "2018-02-28T19:46:00-05:00",
+			"url": "http://microblog.stevegio.net/2018/02/28/ive-been-immortalized.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/02/28/arrived-in-phoenix.html",
 	      	
 			"content_html": "<p>Arrived in Phoenix last night in the rain. Never experienced that. Normally I land at 10:30pm and it’s 95F and dry as a bone. 💀</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/f1edc66059.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-27T17:20:00-05:00",
 			"url": "http://microblog.stevegio.net/2018/01/27/222001.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/01/24/i-took-several.html",
-	      	
-			"content_html": "<p>I took several flights last week carrying a fountain pen. No ink mishaps or leaks. Today I’m toting three inked pens (2 piston  and 1 cartridge). Pushing my luck? 🖋</p>\n",
-			"date_published": "2018-01-24T12:10:00-05:00",
-			"url": "http://microblog.stevegio.net/2018/01/24/i-took-several.html"
 		}
 		
 	]
