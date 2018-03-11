@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-10 12:42 -0500
+date: 2018-02-10 13:42 -0400
 guid: http://gio.micro.blog/2018/02/10/made-a-bauble.html
 ---
 Made a bauble for my Traveller’s Notebook. 
