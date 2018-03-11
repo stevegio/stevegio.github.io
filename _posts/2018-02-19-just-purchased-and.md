@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-19 10:54 -0500
+date: 2018-02-19 11:54 -0400
 guid: http://gio.micro.blog/2018/02/19/just-purchased-and.html
 ---
 Just purchased and now reading in Edinburgh. 📚
