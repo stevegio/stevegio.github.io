@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-30 10:31 -0500
+date: 2017-12-30 11:31 -0400
 guid: http://gio.micro.blog/2017/12/30/barnegat-light-nj.html
 ---
 Barnegat Light, NJ
