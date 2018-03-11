@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-12 09:39 -0500
+date: 2018-01-12 10:39 -0400
 guid: http://gio.micro.blog/2018/01/12/new-pen-pilot.html
 ---
 New pen! Pilot Prera Slate Grey Fine Nib. Currently loaded with Iroshizokku Kon-peki ink.
