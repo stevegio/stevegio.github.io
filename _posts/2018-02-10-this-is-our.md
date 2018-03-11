@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-10 12:22 -0500
+date: 2018-02-10 13:22 -0400
 guid: http://gio.micro.blog/2018/02/10/this-is-our.html
 ---
 This is our sea glass hole drilling rig.
