@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-03-11 11:47 -0500
+date: 2018-03-11 12:47 -0400
 guid: http://gio.micro.blog/2018/03/11/this-last-noreaster.html
 ---
 
