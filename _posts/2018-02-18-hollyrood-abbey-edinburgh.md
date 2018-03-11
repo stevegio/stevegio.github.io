@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-18 16:16 -0500
+date: 2018-02-18 17:16 -0400
 guid: http://gio.micro.blog/2018/02/18/hollyrood-abbey-edinburgh.html
 ---
 Hollyrood Abbey, Edinburgh 
