@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-06 07:13 -0400
 guid: http://gio.micro.blog/2018/02/06/trying-to-get.html
 ---
