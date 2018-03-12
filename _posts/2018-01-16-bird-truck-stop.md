@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-16 17:15 -0400
 guid: http://gio.micro.blog/2018/01/16/bird-truck-stop.html
 ---
