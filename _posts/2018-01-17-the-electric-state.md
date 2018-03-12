@@ -2,6 +2,7 @@
 layout: post
 title: "The Electric State Movie"
 microblog: false
+audio: 
 date: 2018-01-17 09:02 -0400
 guid: http://gio.micro.blog/2018/01/17/the-electric-state.html
 ---
