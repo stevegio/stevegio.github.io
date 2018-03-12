@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-17 05:25 -0400
 guid: http://gio.micro.blog/2018/02/17/good-morning-edinburgh.html
 ---
