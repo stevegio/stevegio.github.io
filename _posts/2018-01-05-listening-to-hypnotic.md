@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-05 08:06 -0400
 guid: http://gio.micro.blog/2018/01/05/listening-to-hypnotic.html
 ---
