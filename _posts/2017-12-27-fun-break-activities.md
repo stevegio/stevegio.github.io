@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-27 10:34 -0400
 guid: http://gio.micro.blog/2017/12/27/fun-break-activities.html
 ---
