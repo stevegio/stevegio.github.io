@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-15 10:02 -0400
 guid: http://gio.micro.blog/2017/05/15/img-srchttpgiomicrobloguploadsbefejpg-width.html
 ---
