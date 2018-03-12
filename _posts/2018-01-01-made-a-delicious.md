@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-01 09:02 -0400
 guid: http://gio.micro.blog/2018/01/01/made-a-delicious.html
 ---
