@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-10 13:22 -0400
 guid: http://gio.micro.blog/2018/02/10/this-is-our.html
 ---
