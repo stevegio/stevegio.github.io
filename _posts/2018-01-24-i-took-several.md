@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-24 13:10 -0400
 guid: http://gio.micro.blog/2018/01/24/i-took-several.html
 ---
