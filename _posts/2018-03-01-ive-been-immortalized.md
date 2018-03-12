@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-28 20:46 -0400
 guid: http://gio.micro.blog/2018/03/01/ive-been-immortalized.html
 ---
