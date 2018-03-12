@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-03 08:28 -0400
 guid: http://gio.micro.blog/2017/05/03/jimmy-vaughn-played.html
 ---
