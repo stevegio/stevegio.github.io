@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/03/14/switching-mail-clients.html",
+	      	
+			"content_html": "<p>Switching mail clients on the Mac just to see if I can improve my workflow a bit. Now that my mail has a new face I’m noticing all the junk lists to which I’ve been subscribed.</p>\n",
+			"date_published": "2018-03-14T15:10:00-04:00",
+			"url": "http://microblog.stevegio.net/2018/03/14/switching-mail-clients.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/03/12/recommended-plumbago-no.html",
 	      	
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/a10cffc650.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Recommended: Plumbago No 3</p>\n\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Made a bauble for my Traveller’s Notebook. </p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/4a7cafb3e6.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-10T13:42:00-04:00",
 			"url": "http://microblog.stevegio.net/2018/02/10/made-a-bauble.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/02/10/this-is-our.html",
-	      	
-			"content_html": "<p>This is our sea glass hole drilling rig.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/5902a533f1.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-10T13:22:00-04:00",
-			"url": "http://microblog.stevegio.net/2018/02/10/this-is-our.html"
 		}
 		
 	]
