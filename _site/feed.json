@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/03/15/wow-this-kigumi.html",
+	      	
+			"content_html": "<p>Wow. This Kigumi Museum is totally on my bucket list. I saw some of this work first hand in Japan. They do wonders there.</p>\n\n<p><a href=\"http://www.spoon-tamago.com/2018/03/07/kigumi-the-japanese-museum-of-interlocking-wooden-joints/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+SpoonTamago+%28Spoon+%26+Tamago%29\">www.spoon-tamago.com/2018/03/0…</a></p>\n",
+			"date_published": "2018-03-15T16:24:00-04:00",
+			"url": "http://microblog.stevegio.net/2018/03/15/wow-this-kigumi.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/03/14/switching-mail-clients.html",
 	      	
 			"content_html": "<p>Switching mail clients on the Mac just to see if I can improve my workflow a bit. Now that my mail has a new face I’m noticing all the junk lists to which I’ve been subscribed.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Lucky Thirteen entering Barnegat Inlet, Barnegat Light, NJ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/2b7803d847.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-11T16:07:00-04:00",
 			"url": "http://microblog.stevegio.net/2018/02/11/lucky-thirteen-entering.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/02/10/made-a-bauble.html",
-	      	
-			"content_html": "<p>Made a bauble for my Traveller’s Notebook. </p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/4a7cafb3e6.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-10T13:42:00-04:00",
-			"url": "http://microblog.stevegio.net/2018/02/10/made-a-bauble.html"
 		}
 		
 	]
