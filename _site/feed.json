@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/03/20/train-to-dc.html",
+	      	
+			"content_html": "<p>Train to DC, flight to San Antonio, drive to Austin, fly back home to Newark. This is the business I have chosen.</p>\n",
+			"date_published": "2018-03-20T07:37:00-04:00",
+			"url": "http://microblog.stevegio.net/2018/03/20/train-to-dc.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/03/18/beautiful-day-at.html",
 	      	
 			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/0b63630c01.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/0b63630c01.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Beautiful day at the Jersey shore. Spring is in the air no matter how chilly it may be. </p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Nothing quite says, “Fuck it.” Like a big piece of carrot cake for breakfast.</p>\n",
 			"date_published": "2018-02-13T08:47:00-04:00",
 			"url": "http://microblog.stevegio.net/2018/02/13/nothing-quite-says.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/02/13/earlier-than-normal.html",
-	      	
-			"content_html": "<p>Earlier than normal start. Off to Memphis for the day. This is the business we have chosen…</p>\n",
-			"date_published": "2018-02-13T07:04:00-04:00",
-			"url": "http://microblog.stevegio.net/2018/02/13/earlier-than-normal.html"
 		}
 		
 	]
