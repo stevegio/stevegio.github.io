@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-16 17:17 -0400
+date: 2018-01-16 14:17 -0700
 guid: http://gio.micro.blog/2018/01/16/old-barney-in.html
 ---
 Old Barney in the Snow
