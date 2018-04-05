@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-03 12:10 -0400
+date: 2018-01-03 09:10 -0700
 guid: http://gio.micro.blog/2018/01/03/highly-recommend-these.html
 ---
 Highly recommend these North Face E-Tip gloves. They are thin (almost mitten liner thin) but they keep my hands warm and work well on touch screen devices.
