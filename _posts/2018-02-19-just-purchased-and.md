@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-19 11:54 -0400
+date: 2018-02-19 08:54 -0700
 guid: http://gio.micro.blog/2018/02/19/just-purchased-and.html
 ---
 Just purchased and now reading in Edinburgh. 📚
