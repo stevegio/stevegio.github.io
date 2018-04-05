@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-17 05:25 -0400
+date: 2018-02-17 02:25 -0700
 guid: http://gio.micro.blog/2018/02/17/good-morning-edinburgh.html
 ---
 Good morning Edinburgh!
