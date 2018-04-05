@@ -3,7 +3,7 @@ layout: post
 title: "Pecos Pueblo, New Mexico "
 microblog: false
 audio: 
-date: 2018-04-02 09:47 -0400
+date: 2018-04-02 06:47 -0700
 guid: http://gio.micro.blog/2018/04/02/pecos-pueblo-new.html
 ---
 
