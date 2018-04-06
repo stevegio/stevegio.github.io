@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/04/06/impossible-rock-formations.html",
+	      	
+			"content_html": "<p>Impossible rock formations. Faye Canyon, Sedona, AZ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/41af6c3965.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-05T19:10:00-07:00",
+			"url": "http://microblog.stevegio.net/2018/04/05/impossible-rock-formations.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/04/05/sedona-az.html",
 	      	
 			"content_html": "<p>Sedona, AZ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/369072eb27.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -201,14 +209,6 @@
 			"content_html": "<p>Arrived in Phoenix last night in the rain. Never experienced that. Normally I land at 10:30pm and it’s 95F and dry as a bone. 💀</p>\n",
 			"date_published": "2018-02-28T08:29:00-08:00",
 			"url": "http://microblog.stevegio.net/2018/02/28/arrived-in-phoenix.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/02/27/can-we-get.html",
-	      	
-			"content_html": "<p>Can we get some public funding for day care?</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/6e5341c6c0.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-27T04:02:00-08:00",
-			"url": "http://microblog.stevegio.net/2018/02/27/can-we-get.html"
 		}
 		
 	]
