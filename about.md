@@ -3,6 +3,6 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 1
-date: 2017-09-05 13:42 -0700
+date: 2017-09-05 16:42:19 -0400
 ---
 A microblog by Steve Giovannetti.
