@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/04/17/on-my-way.html",
+	      	
+			"content_html": "<p>On my way to Nebraska. I have never been to Nebraska.</p>\n",
+			"date_published": "2018-04-17T13:08:50-04:00",
+			"url": "http://microblog.stevegio.net/2018/04/17/on-my-way.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/04/07/happy-th-wedding.html",
 	      	
 			"content_html": "<p>Happy 28th Wedding Anniversary to me and Mrs. Gio! 🎉❤️</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/437a848e01.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-07T08:00:00-07:00",
+			"date_published": "2018-04-07T11:00:28-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/07/happy-th-wedding.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://gio.micro.blog/2018/04/06/impossible-rock-formations.html",
 	      	
 			"content_html": "<p>Impossible rock formations. Faye Canyon, Sedona, AZ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/41af6c3965.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-05T19:10:00-07:00",
+			"date_published": "2018-04-05T22:10:41-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/05/impossible-rock-formations.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://gio.micro.blog/2018/04/05/sedona-az.html",
 	      	
 			"content_html": "<p>Sedona, AZ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/369072eb27.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-05T07:54:00-07:00",
+			"date_published": "2018-04-05T10:54:15-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/05/sedona-az.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://gio.micro.blog/2018/04/04/plaza-blanco.html",
 	      	
 			"content_html": "<p>Plaza Blanco</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/32e51a4d00.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-03T17:10:00-07:00",
+			"date_published": "2018-04-03T20:10:38-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/03/plaza-blanco.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://gio.micro.blog/2018/04/03/132540.html",
 	      	
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/1f3b13922c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-03T06:25:00-07:00",
+			"date_published": "2018-04-03T09:25:40-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/03/132540.html"
 		},
 		
@@ -51,7 +59,7 @@
 			"title": "Santuario De Chimayo",
 			
 			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/5021ceb718.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/5021ceb718.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://microblog.stevegio.net/uploads/2018/42e869f5a2.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/42e869f5a2.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n",
-			"date_published": "2018-04-03T05:49:00-07:00",
+			"date_published": "2018-04-03T08:49:59-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/03/santuario-de-chimayo.html"
 		},
 		
@@ -61,7 +69,7 @@
 			"title": "Santa Fe Plaza",
 			
 			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/e3a000c936.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/e3a000c936.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Years ago the engraving on this moment was vandalized to remove the word “savage”. Many in the city considered this an improvement and decided not to have it repaired.</p>\n",
-			"date_published": "2018-04-02T07:32:00-07:00",
+			"date_published": "2018-04-02T10:32:16-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/02/santa-fe-plaza.html"
 		},
 		
@@ -71,7 +79,7 @@
 			"title": "Pecos Pueblo, New Mexico ",
 			
 			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/fcdeb2fbb5.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/fcdeb2fbb5.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n",
-			"date_published": "2018-04-02T06:47:00-07:00",
+			"date_published": "2018-04-02T09:47:42-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/02/pecos-pueblo-new.html"
 		},
 		
@@ -79,7 +87,7 @@
 			"id": "http://gio.micro.blog/2018/04/01/santa-fe-new.html",
 	      	
 			"content_html": "<p>Santa Fe, New Mexico</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/b6b7e13687.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-03-31T19:39:00-07:00",
+			"date_published": "2018-03-31T22:39:27-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/31/santa-fe-new.html"
 		},
 		
@@ -87,7 +95,7 @@
 			"id": "http://gio.micro.blog/2018/03/24/great-new-podcast.html",
 	      	
 			"content_html": "<p>Great new podcast -&gt; <a href=\"https://overcast.fm/+MIPymicmA\">Deconstructed</a></p>\n",
-			"date_published": "2018-03-24T04:59:00-07:00",
+			"date_published": "2018-03-24T07:59:40-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/24/great-new-podcast.html"
 		},
 		
@@ -95,7 +103,7 @@
 			"id": "http://gio.micro.blog/2018/03/22/the-fish-police.html",
 	      	
 			"content_html": "<p><a href=\"https://itunes.apple.com/us/album/japanese-girl/396881972?i=396881996\">The Fish Police - Japanese Girl</a> at 30,000 ft. 🎵</p>\n",
-			"date_published": "2018-03-22T12:51:00-07:00",
+			"date_published": "2018-03-22T15:51:03-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/22/the-fish-police.html"
 		},
 		
@@ -103,7 +111,7 @@
 			"id": "http://gio.micro.blog/2018/03/22/now-playing-in.html",
 	      	
 			"content_html": "<p>Now playing in Austin. <a href=\"https://itunes.apple.com/us/album/suckers-prayer/1333620066?i=1333620538\">Decemberists - Sucker’s Prayer</a> 🎵</p>\n",
-			"date_published": "2018-03-22T10:24:00-07:00",
+			"date_published": "2018-03-22T13:24:54-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/22/now-playing-in.html"
 		},
 		
@@ -111,7 +119,7 @@
 			"id": "http://gio.micro.blog/2018/03/20/train-to-dc.html",
 	      	
 			"content_html": "<p>Train to DC, flight to San Antonio, drive to Austin, fly back home to Newark. This is the business I have chosen.</p>\n",
-			"date_published": "2018-03-20T04:37:00-07:00",
+			"date_published": "2018-03-20T07:37:05-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/20/train-to-dc.html"
 		},
 		
@@ -119,7 +127,7 @@
 			"id": "http://gio.micro.blog/2018/03/18/beautiful-day-at.html",
 	      	
 			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/0b63630c01.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/0b63630c01.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Beautiful day at the Jersey shore. Spring is in the air no matter how chilly it may be.</p>\n",
-			"date_published": "2018-03-18T07:55:00-07:00",
+			"date_published": "2018-03-18T10:55:37-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/18/beautiful-day-at.html"
 		},
 		
@@ -127,7 +135,7 @@
 			"id": "http://gio.micro.blog/2018/03/15/wow-this-kigumi.html",
 	      	
 			"content_html": "<p>Wow. This Kigumi Museum is totally on my bucket list. I saw some of this work first hand in Japan. They do wonders there.</p>\n\n<p><a href=\"http://www.spoon-tamago.com/2018/03/07/kigumi-the-japanese-museum-of-interlocking-wooden-joints/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+SpoonTamago+%28Spoon+%26+Tamago%29\">www.spoon-tamago.com/2018/03/0…</a></p>\n",
-			"date_published": "2018-03-15T13:24:00-07:00",
+			"date_published": "2018-03-15T16:24:27-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/15/wow-this-kigumi.html"
 		},
 		
@@ -135,7 +143,7 @@
 			"id": "http://gio.micro.blog/2018/03/14/switching-mail-clients.html",
 	      	
 			"content_html": "<p>Switching mail clients on the Mac just to see if I can improve my workflow a bit. Now that my mail has a new face I’m noticing all the junk lists to which I’ve been subscribed.</p>\n",
-			"date_published": "2018-03-14T12:10:00-07:00",
+			"date_published": "2018-03-14T15:10:41-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/14/switching-mail-clients.html"
 		},
 		
@@ -143,7 +151,7 @@
 			"id": "http://gio.micro.blog/2018/03/12/recommended-plumbago-no.html",
 	      	
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/a10cffc650.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Recommended: Plumbago No 3</p>\n\n",
-			"date_published": "2018-03-12T13:26:00-07:00",
+			"date_published": "2018-03-12T16:26:26-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/12/recommended-plumbago-no.html"
 		},
 		
@@ -151,7 +159,7 @@
 			"id": "http://gio.micro.blog/2018/03/11/at-feet-with.html",
 	      	
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/c72d1c4f80.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>At 30,000 feet with my fountain pens sequestered in plastic bags, the lowly pencil is king.</p>\n\n",
-			"date_published": "2018-03-11T15:39:00-07:00",
+			"date_published": "2018-03-11T18:39:50-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/11/at-feet-with.html"
 		},
 		
@@ -159,7 +167,7 @@
 			"id": "http://gio.micro.blog/2018/03/11/this-last-noreaster.html",
 	      	
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/bc90488af8.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>This last nor’easter did some damage in our town. This is some of the worst and it’s still in this condition days after the storm.</p>\n\n",
-			"date_published": "2018-03-11T09:47:00-07:00",
+			"date_published": "2018-03-11T12:47:37-04:00",
 			"url": "http://microblog.stevegio.net/2018/03/11/this-last-noreaster.html"
 		},
 		
@@ -167,7 +175,7 @@
 			"id": "http://gio.micro.blog/2018/03/07/added-a-new.html",
 	      	
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/3ba7252bb1.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Added a new Velcro patch to my Savage Industries EDC ONE. Now that’s a steely-eyed missile man’s bag!</p>\n\n",
-			"date_published": "2018-03-07T06:25:00-08:00",
+			"date_published": "2018-03-07T09:25:12-05:00",
 			"url": "http://microblog.stevegio.net/2018/03/07/added-a-new.html"
 		},
 		
@@ -175,7 +183,7 @@
 			"id": "http://gio.micro.blog/2018/03/07/rain-turning-to.html",
 	      	
 			"content_html": "<p>Rain turning to snow here in Central NJ (yes it’s a thing!) should be a “fun” weather day. I’m going to the office.</p>\n",
-			"date_published": "2018-03-07T04:26:00-08:00",
+			"date_published": "2018-03-07T07:26:11-05:00",
 			"url": "http://microblog.stevegio.net/2018/03/07/rain-turning-to.html"
 		},
 		
@@ -183,7 +191,7 @@
 			"id": "http://gio.micro.blog/2018/03/06/just-pulled-the.html",
 	      	
 			"content_html": "<p>Just pulled the snow shovel out of the shed. Another snow filled nor’easter on the way.</p>\n",
-			"date_published": "2018-03-06T14:49:00-08:00",
+			"date_published": "2018-03-06T17:49:26-05:00",
 			"url": "http://microblog.stevegio.net/2018/03/06/just-pulled-the.html"
 		},
 		
@@ -191,7 +199,7 @@
 			"id": "http://gio.micro.blog/2018/03/04/the-boat-ramp.html",
 	      	
 			"content_html": "<p>The boat ramp in town and the streets were slightly flooded on the island but we’ve weathered the storm relatively unscathed.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/5ece31a2ce.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-03-04T05:26:00-08:00",
+			"date_published": "2018-03-04T08:26:45-05:00",
 			"url": "http://microblog.stevegio.net/2018/03/04/the-boat-ramp.html"
 		},
 		
@@ -199,16 +207,8 @@
 			"id": "http://gio.micro.blog/2018/03/01/its-a-robbie.html",
 	      	
 			"content_html": "<p>It’s a Robbie Basho kind of morning.</p>\n\n<p><a href=\"https://itunes.apple.com/us/album/pavan-hindustan-instrumental/251342489?i=251342501\">Robbie Basho - Pavan Hindustan</a></p>\n",
-			"date_published": "2018-03-01T06:45:00-08:00",
+			"date_published": "2018-03-01T09:45:19-05:00",
 			"url": "http://microblog.stevegio.net/2018/03/01/its-a-robbie.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/03/01/ive-been-immortalized.html",
-	      	
-			"content_html": "<p>I’ve been immortalized by my favorite podcast 😀 Thanks <a href=\"https://micro.blog/imyke\">@imyke</a> and @dowdyism!</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/ad116eb8bd.jpg\" width=\"284\" height=\"283\" /></p>\n",
-			"date_published": "2018-02-28T16:46:00-08:00",
-			"url": "http://microblog.stevegio.net/2018/02/28/ive-been-immortalized.html"
 		}
 		
 	]
