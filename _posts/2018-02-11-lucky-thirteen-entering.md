@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-11 13:07 -0700
+date: 2018-02-11 16:07:56 -0400
 guid: http://gio.micro.blog/2018/02/11/lucky-thirteen-entering.html
 ---
 Lucky Thirteen entering Barnegat Inlet, Barnegat Light, NJ
