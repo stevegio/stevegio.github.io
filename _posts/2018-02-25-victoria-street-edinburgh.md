@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-25 07:35 -0700
+date: 2018-02-25 10:35:56 -0400
 guid: http://gio.micro.blog/2018/02/25/victoria-street-edinburgh.html
 ---
 Victoria Street, Edinburgh 
