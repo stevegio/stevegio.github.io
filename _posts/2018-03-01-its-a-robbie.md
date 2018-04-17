@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-01 07:45 -0700
+date: 2018-03-01 10:45:19 -0400
 guid: http://gio.micro.blog/2018/03/01/its-a-robbie.html
 ---
 It’s a Robbie Basho kind of morning. 
