@@ -3,7 +3,7 @@ layout: post
 title: "Santa Fe Plaza"
 microblog: false
 audio: 
-date: 2018-04-02 07:32 -0700
+date: 2018-04-02 10:32:16 -0400
 guid: http://gio.micro.blog/2018/04/02/santa-fe-plaza.html
 ---
 
