@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/06/06/siri-shortcuts-looks.html",
+	      	
+			"content_html": "<p>Siri Shortcuts looks great. For those of you who’ve downloaded an iOS 12 beta on a device, I found <a href=\"https://9to5mac.com/2018/06/05/ios-12-siri-shortcuts/\">this</a> “how to” helpful. You need the tried and true Workflow app until the official app is available in upcoming betas.</p>\n",
+			"date_published": "2018-06-06T07:30:11-04:00",
+			"url": "http://microblog.stevegio.net/2018/06/06/siri-shortcuts-looks.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/05/30/currently-reading-the.html",
 	      	
 			"content_html": "<p>Currently reading “The Rise and Fall of D.O.D.O.” by Neal Stephenson and Nicole Galland. Great fun so far and a goof break from the heavier stuff I was reading lately. 📚</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/7bee7e8a9f.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -199,16 +207,6 @@
 			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/e3a000c936.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/e3a000c936.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Years ago the engraving on this moment was vandalized to remove the word “savage”. Many in the city considered this an improvement and decided not to have it repaired.</p>\n",
 			"date_published": "2018-04-02T10:32:16-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/02/santa-fe-plaza.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/02/pecos-pueblo-new.html",
-	      	
-			"title": "Pecos Pueblo, New Mexico ",
-			
-			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/fcdeb2fbb5.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/fcdeb2fbb5.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n",
-			"date_published": "2018-04-02T09:47:42-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/02/pecos-pueblo-new.html"
 		}
 		
 	]
