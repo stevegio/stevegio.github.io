@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/06/14/pilot-on-flight.html",
+	      	
+			"content_html": "<p>Pilot on flight to Omaha: “Folks we are going to Ctrl-Alt-Del the aircraft to clear an error.”</p>\n\n<p>We are on the ground of course.</p>\n\n",
+			"date_published": "2018-06-14T05:55:38-04:00",
+			"url": "http://microblog.stevegio.net/2018/06/14/pilot-on-flight.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/06/09/for-me-almost.html",
 	      	
 			"content_html": "<p>For me, almost nothing important happens on Twitter that doesn’t also happen in feeds in RSS.</p>\n",
@@ -195,16 +203,6 @@
 			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/1f3b13922c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-03T09:25:40-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/03/132540.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/03/santuario-de-chimayo.html",
-	      	
-			"title": "Santuario De Chimayo",
-			
-			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/5021ceb718.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/5021ceb718.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://microblog.stevegio.net/uploads/2018/42e869f5a2.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/42e869f5a2.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n",
-			"date_published": "2018-04-03T08:49:59-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/03/santuario-de-chimayo.html"
 		}
 		
 	]
