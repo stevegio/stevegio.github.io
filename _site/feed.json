@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/06/24/ireddit.html",
+	      	
+			"content_html": "<p><a href=\"https://i.redd.it/tw9r9nqqxn511.jpg\">i.redd.it</a></p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/fab4c0d6bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-24T10:40:45-04:00",
+			"url": "http://microblog.stevegio.net/2018/06/24/ireddit.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/06/23/122543.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/d040ee7c7f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-23T08:25:43-04:00",
+			"url": "http://microblog.stevegio.net/2018/06/23/122543.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/06/22/the-fruits-of.html",
 	      	
 			"content_html": "<p>The fruits of many after-work build sessions. I did not contribute but loved watching the progress and now we have the fastest ship in the galaxy docked in our office. Nice work @hubcitymedia build team!</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/29ec73dc99.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p>Impossible rock formations. Faye Canyon, Sedona, AZ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/41af6c3965.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-05T22:10:41-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/05/impossible-rock-formations.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/05/sedona-az.html",
-	      	
-			"content_html": "<p>Sedona, AZ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/369072eb27.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-05T10:54:15-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/05/sedona-az.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/04/plaza-blanco.html",
-	      	
-			"content_html": "<p>Plaza Blanco</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/32e51a4d00.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-03T20:10:38-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/03/plaza-blanco.html"
 		}
 		
 	]
