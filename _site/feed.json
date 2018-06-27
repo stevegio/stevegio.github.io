@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/06/27/im-pleasantly-surprised.html",
+	      	
+			"content_html": "<p>I’m pleasantly surprised about how boring running iOS 12 beta is on my EDC iPhone X. This is the most stable beta I’ve installed.</p>\n",
+			"date_published": "2018-06-27T06:59:17-04:00",
+			"url": "http://microblog.stevegio.net/2018/06/27/im-pleasantly-surprised.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/06/24/ireddit.html",
 	      	
 			"content_html": "<p><a href=\"https://i.redd.it/tw9r9nqqxn511.jpg\">i.redd.it</a></p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/fab4c0d6bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Happy 28th Wedding Anniversary to me and Mrs. Gio! 🎉❤️</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/437a848e01.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-07T11:00:28-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/07/happy-th-wedding.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/06/impossible-rock-formations.html",
-	      	
-			"content_html": "<p>Impossible rock formations. Faye Canyon, Sedona, AZ</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/41af6c3965.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-05T22:10:41-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/05/impossible-rock-formations.html"
 		}
 		
 	]
