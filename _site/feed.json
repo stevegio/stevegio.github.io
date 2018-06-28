@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/06/28/ending-a-hour.html",
+	      	
+			"content_html": "<p>Ending a 48 hour fast this morning. Did it mainly to exercise an atrophied will-power. Positive experience and I’m going to think seriously about possibly doing this on a periodic schedule. Once a month? Once a quarter?</p>\n",
+			"date_published": "2018-06-28T06:46:07-04:00",
+			"url": "http://microblog.stevegio.net/2018/06/28/ending-a-hour.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/06/27/im-pleasantly-surprised.html",
 	      	
 			"content_html": "<p>I’m pleasantly surprised about how boring running iOS 12 beta is on my EDC iPhone X. This is the most stable beta I’ve installed.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>On my way to Nebraska. I have never been to Nebraska.</p>\n",
 			"date_published": "2018-04-17T13:08:50-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/17/on-my-way.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/07/happy-th-wedding.html",
-	      	
-			"content_html": "<p>Happy 28th Wedding Anniversary to me and Mrs. Gio! 🎉❤️</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/437a848e01.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-07T11:00:28-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/07/happy-th-wedding.html"
 		}
 		
 	]
