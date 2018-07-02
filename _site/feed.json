@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/07/02/sunset-barnegat-light.html",
+	      	
+			"content_html": "<p>Sunset, Barnegat Light, NJ\nAdditional color brought to you by some wildfires burning in the pine barrens.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/1801c2ac6b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-02T11:25:02-04:00",
+			"url": "http://microblog.stevegio.net/2018/07/02/sunset-barnegat-light.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/06/28/ending-a-hour.html",
 	      	
 			"content_html": "<p>Ending a 48 hour fast this morning. Did it mainly to exercise an atrophied will-power. Positive experience and I’m going to think seriously about possibly doing this on a periodic schedule. Once a month? Once a quarter?</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Howdy, from Drafts 5!</p>\n",
 			"date_published": "2018-04-18T19:00:42-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/18/howdy-from-drafts.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/17/on-my-way.html",
-	      	
-			"content_html": "<p>On my way to Nebraska. I have never been to Nebraska.</p>\n",
-			"date_published": "2018-04-17T13:08:50-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/17/on-my-way.html"
 		}
 		
 	]
