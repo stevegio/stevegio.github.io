@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/07/04/hey-happy-independence.html",
+	      	
+			"content_html": "<p>Hey, Happy Independence Day. Don’t blow your fingers off!</p>\n",
+			"date_published": "2018-07-04T09:45:35-04:00",
+			"url": "http://microblog.stevegio.net/2018/07/04/hey-happy-independence.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/07/02/sunset-barnegat-light.html",
 	      	
 			"content_html": "<p>Sunset, Barnegat Light, NJ\nAdditional color brought to you by some wildfires burning in the pine barrens.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/1801c2ac6b.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>I could spend all day watching @jetpens pen and stationary videos. ❤️🖋📕</p>\n",
 			"date_published": "2018-04-20T11:42:05-04:00",
 			"url": "http://microblog.stevegio.net/2018/04/20/i-could-spend.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/18/howdy-from-drafts.html",
-	      	
-			"content_html": "<p>Howdy, from Drafts 5!</p>\n",
-			"date_published": "2018-04-18T19:00:42-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/18/howdy-from-drafts.html"
 		}
 		
 	]
