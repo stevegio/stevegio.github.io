@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/07/24/my-normal-strategy.html",
+	      	
+			"content_html": "<p>My normal strategy of flying out of Newark on the first flight to avoid delays seems to be failing today. This does not bode well for the other four flights I need to take between now and Thursday.</p>\n",
+			"date_published": "2018-07-24T08:44:10-04:00",
+			"url": "http://microblog.stevegio.net/2018/07/24/my-normal-strategy.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/07/21/reading-the-threebody.html",
+	      	
+			"content_html": "<p>Reading “The Three-Body Problem” by Cixin Liu 📚</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/62d04d804a.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-21T09:02:28-04:00",
+			"url": "http://microblog.stevegio.net/2018/07/21/reading-the-threebody.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/07/21/i-know-its.html",
+	      	
+			"content_html": "<p>I know it’s not indie but I really hope Flickr makes it. \n<a href=\"https://flic.kr/p/27SK6D2\">flic.kr/p/27SK6D2</a></p>\n",
+			"date_published": "2018-07-21T08:58:18-04:00",
+			"url": "http://microblog.stevegio.net/2018/07/21/i-know-its.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/07/21/the-sky-looks.html",
 	      	
 			"content_html": "<p>The sky looks like a bad spray paint job today.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/e5c84998ad.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>Screen time using a problem. Quality screen time , or rather the lack of it, is a big problem. Apps and content should have food-like nutritional labels/ratings.</p>\n",
 			"date_published": "2018-05-12T18:33:49-04:00",
 			"url": "http://microblog.stevegio.net/2018/05/12/screen-time-using.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/05/12/austin.html",
-	      	
-			"content_html": "<p>Austin</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/da82b67700.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-05-12T18:29:57-04:00",
-			"url": "http://microblog.stevegio.net/2018/05/12/austin.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/05/01/off-to-the.html",
-	      	
-			"content_html": "<p>Off to The People’s Republic of Austin today. Keep it Weird.</p>\n",
-			"date_published": "2018-05-01T07:08:41-04:00",
-			"url": "http://microblog.stevegio.net/2018/05/01/off-to-the.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/04/29/just-picked-up.html",
-	      	
-			"content_html": "<p>Just picked up this gem for $5 at my local shop. 🎵</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/429371bf93.jpg\" width=\"600\" height=\"587\" /></p>\n",
-			"date_published": "2018-04-29T12:48:43-04:00",
-			"url": "http://microblog.stevegio.net/2018/04/29/just-picked-up.html"
 		}
 		
 	]
