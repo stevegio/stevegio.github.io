@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/08/09/drone-shot.html",
+	      	
+			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/afb9b599e2.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/afb9b599e2.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Drone Shot</p>\n\n",
+			"date_published": "2018-08-09T17:22:00-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/09/drone-shot.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/08/06/i-just-love.html",
 	      	
 			"content_html": "<p>I just love this QAnon stuff. \n<a href=\"https://www.buzzfeednews.com/article/ryanhatesthis/its-looking-extremely-likely-that-qanon-is-probably-a\">It’s Looking Extremely Likely That QAnon Is A Leftist Prank On Trump Supporters</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Really enjoyed Solo. Not a great Star Wars movie but a good one.</p>\n",
 			"date_published": "2018-05-26T08:59:21-04:00",
 			"url": "http://microblog.stevegio.net/2018/05/26/really-enjoyed-solo.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/05/26/first-taste-of.html",
-	      	
-			"content_html": "<p>First taste of kombucha. Like drinking fizzy soy sauce.</p>\n",
-			"date_published": "2018-05-26T08:51:16-04:00",
-			"url": "http://microblog.stevegio.net/2018/05/26/first-taste-of.html"
 		}
 		
 	]
