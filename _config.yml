@@ -48,7 +48,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "390"
 gems: ["jekyll-paginate"]
+itunes_description: "Nerd from NJ. Proud dad. CTO of a security consultancy."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Steve Giovannetti"
+itunes_email: ""
 podcast: false
