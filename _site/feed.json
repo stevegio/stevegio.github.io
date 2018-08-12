@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/08/12/green-party-candidate.html",
+	      	
+			"content_html": "<p><a href=\"https://www.salon.com/2018/08/11/green-party-candidate-in-montana-was-on-gop-payroll/\">Green Party candidate in Montana was on GOP payroll</a>\nAs the GOP base dwindles this is the kind of crap progressives need to watch out for during elections.</p>\n",
+			"date_published": "2018-08-12T09:10:29-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/12/green-party-candidate.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/08/09/drone-shot.html",
 	      	
 			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/afb9b599e2.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/afb9b599e2.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Drone Shot</p>\n\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Summertime</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/9b2ee28ea9.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-26T09:00:45-04:00",
 			"url": "http://microblog.stevegio.net/2018/05/26/summertime.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/05/26/really-enjoyed-solo.html",
-	      	
-			"content_html": "<p>Really enjoyed Solo. Not a great Star Wars movie but a good one.</p>\n",
-			"date_published": "2018-05-26T08:59:21-04:00",
-			"url": "http://microblog.stevegio.net/2018/05/26/really-enjoyed-solo.html"
 		}
 		
 	]
