@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/08/16/daily-journaling-habit.html",
+	      	
+			"content_html": "<p>Daily journaling habit seems to be in full swing. Now if I could only find the time to put a blog post together just once a week. Got to make some time.</p>\n",
+			"date_published": "2018-08-16T07:21:48-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/16/daily-journaling-habit.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/08/12/green-party-candidate.html",
 	      	
 			"content_html": "<p><a href=\"https://www.salon.com/2018/08/11/green-party-candidate-in-montana-was-on-gop-payroll/\">Green Party candidate in Montana was on GOP payroll</a>\nAs the GOP base dwindles this is the kind of crap progressives need to watch out for during elections.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Currently reading “The Rise and Fall of D.O.D.O.” by Neal Stephenson and Nicole Galland. Great fun so far and a goof break from the heavier stuff I was reading lately. 📚</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/7bee7e8a9f.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-30T05:51:39-04:00",
 			"url": "http://microblog.stevegio.net/2018/05/30/currently-reading-the.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/05/26/summertime.html",
-	      	
-			"content_html": "<p>Summertime</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/9b2ee28ea9.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-26T09:00:45-04:00",
-			"url": "http://microblog.stevegio.net/2018/05/26/summertime.html"
 		}
 		
 	]
