@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/08/17/when-i-read.html",
+	      	
+			"content_html": "<p>When I read the news these days I can’t help but feel we are living in the prelude to <a href=\"https://en.m.wikipedia.org/wiki/Random_Acts_of_Senseless_Violence\">Random Acts of Senseless Violence</a> by Jack Womack. It’s a great but terrifying book. 📕</p>\n",
+			"date_published": "2018-08-17T07:55:08-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/17/when-i-read.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/08/16/daily-journaling-habit.html",
 	      	
 			"content_html": "<p>Daily journaling habit seems to be in full swing. Now if I could only find the time to put a blog post together just once a week. Got to make some time.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Siri Shortcuts looks great. For those of you who’ve downloaded an iOS 12 beta on a device, I found <a href=\"https://9to5mac.com/2018/06/05/ios-12-siri-shortcuts/\">this</a> “how to” helpful. You need the tried and true Workflow app until the official app is available in upcoming betas.</p>\n",
 			"date_published": "2018-06-06T07:30:11-04:00",
 			"url": "http://microblog.stevegio.net/2018/06/06/siri-shortcuts-looks.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/05/30/currently-reading-the.html",
-	      	
-			"content_html": "<p>Currently reading “The Rise and Fall of D.O.D.O.” by Neal Stephenson and Nicole Galland. Great fun so far and a goof break from the heavier stuff I was reading lately. 📚</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/7bee7e8a9f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-30T05:51:39-04:00",
-			"url": "http://microblog.stevegio.net/2018/05/30/currently-reading-the.html"
 		}
 		
 	]
