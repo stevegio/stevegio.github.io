@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/08/20/the-three-body.html",
+	      	
+			"content_html": "<p>“The Three Body Problem” and “The Dark Forest” my Cixin Liu did not disappoint. Probably the best science fiction I’ve reAd in 10 years. “Death’s End” is equally thought provoking. Wonderful. 📚</p>\n",
+			"date_published": "2018-08-20T18:50:07-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/20/the-three-body.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/08/17/when-i-read.html",
 	      	
 			"content_html": "<p>When I read the news these days I can’t help but feel we are living in the prelude to <a href=\"https://en.m.wikipedia.org/wiki/Random_Acts_of_Senseless_Violence\">Random Acts of Senseless Violence</a> by Jack Womack. It’s a great but terrifying book. 📕</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>For me, almost nothing important happens on Twitter that doesn’t also happen in feeds in RSS.</p>\n",
 			"date_published": "2018-06-09T07:01:09-04:00",
 			"url": "http://microblog.stevegio.net/2018/06/09/for-me-almost.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/06/06/siri-shortcuts-looks.html",
-	      	
-			"content_html": "<p>Siri Shortcuts looks great. For those of you who’ve downloaded an iOS 12 beta on a device, I found <a href=\"https://9to5mac.com/2018/06/05/ios-12-siri-shortcuts/\">this</a> “how to” helpful. You need the tried and true Workflow app until the official app is available in upcoming betas.</p>\n",
-			"date_published": "2018-06-06T07:30:11-04:00",
-			"url": "http://microblog.stevegio.net/2018/06/06/siri-shortcuts-looks.html"
 		}
 		
 	]
