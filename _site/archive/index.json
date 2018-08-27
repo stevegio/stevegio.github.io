@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/08/26/just-finished-the.html",
+	      	
+			"content_text": "Just finished the series. Best books I’ve read in 5-10...",
+			"date_published": "2018-08-26T08:00:11-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/26/just-finished-the.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/08/25/the-sun-on.html",
+	      	
+			"content_text": "The sun on the waves in the water today is...",
+			"date_published": "2018-08-25T11:41:17-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/25/the-sun-on.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/08/25/they-may-be.html",
 	      	
 			"content_text": "They may be a little ugly but Jersey Tomatoes are...",
