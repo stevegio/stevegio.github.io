@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/08/26/just-finished-the.html",
+	      	
+			"content_html": "<p>Just finished the series. Best books I’ve read in 5-10 years. I’m stunned.\nIf I had to pick “The Dark Forest“ was probably my favorite.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/65eb4b3abb.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-26T08:00:11-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/26/just-finished-the.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/08/25/the-sun-on.html",
+	      	
+			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/57270d3efe.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/57270d3efe.jpg\" width=\"599\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>The sun on the waves in the water today is making them sparkle like diamonds.</p>\n\n",
+			"date_published": "2018-08-25T11:41:17-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/25/the-sun-on.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/08/25/they-may-be.html",
 	      	
 			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/b99faf3306.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/b99faf3306.jpg\" width=\"600\" height=\"449\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>They may be a little ugly but Jersey Tomatoes are the best tomatoes.</p>\n\n",
@@ -187,22 +203,6 @@
 			"content_html": "<p><a href=\"https://i.redd.it/tw9r9nqqxn511.jpg\">i.redd.it</a></p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/fab4c0d6bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-24T10:40:45-04:00",
 			"url": "http://microblog.stevegio.net/2018/06/24/ireddit.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/06/23/122543.html",
-	      	
-			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/d040ee7c7f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-23T08:25:43-04:00",
-			"url": "http://microblog.stevegio.net/2018/06/23/122543.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/06/22/the-fruits-of.html",
-	      	
-			"content_html": "<p>The fruits of many after-work build sessions. I did not contribute but loved watching the progress and now we have the fastest ship in the galaxy docked in our office. Nice work @hubcitymedia build team!</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/29ec73dc99.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-06-22T07:43:27-04:00",
-			"url": "http://microblog.stevegio.net/2018/06/22/the-fruits-of.html"
 		}
 		
 	]
