@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/08/31/120834.html",
+	      	
+			"content_html": "<p><img src=\"http://microblog.stevegio.net/uploads/2018/98786f4a6e.jpg\" width=\"600\" height=\"334\" /></p>\n",
+			"date_published": "2018-08-31T08:08:34-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/31/120834.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/08/29/fuck-your-feelings.html",
+	      	
+			"content_html": "<p><a href=\"https://overcast.fm/+B06_Hdzdk\">Fuck Your Feelings</a> is a remarkable episode of the Love &amp; Radio Podcast. I found it to be profoundly disturbing yet enlightening. I struggle mightily to understand Trump supporters. This at least gives me an insight into the psychology of some. The desire to simplify daily existence seems like a key motivator. It’s a desire driven not by fear but fatigue in dealing with the world as it is. Of course that’s great if your cis, white, and well off. If not the reality of the world has a way of hitting you in the face with a 2x4 on a constant basis. Winding the cultural clock back to the 1950s is a shitty idea.</p>\n",
+			"date_published": "2018-08-29T07:30:03-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/29/fuck-your-feelings.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/08/26/this-is-interesting.html",
+	      	
+			"content_html": "<p>This is interesting. Addresses the main issue Keybase is trying to fix.\n<a href=\"https://tech.firstlook.media/keylist-rfc-explainer\">Keylist RFC: Distributing OpenPGP Keys with Signed Keylist Subscriptions</a></p>\n",
+			"date_published": "2018-08-26T09:28:58-04:00",
+			"url": "http://microblog.stevegio.net/2018/08/26/this-is-interesting.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/08/26/just-finished-the.html",
 	      	
 			"content_html": "<p>Just finished the series. Best books I’ve read in 5-10 years. I’m stunned.\nIf I had to pick “The Dark Forest“ was probably my favorite.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/65eb4b3abb.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -179,30 +203,6 @@
 			"content_html": "<p>Sunset, Barnegat Light, NJ\nAdditional color brought to you by some wildfires burning in the pine barrens.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/1801c2ac6b.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-07-02T11:25:02-04:00",
 			"url": "http://microblog.stevegio.net/2018/07/02/sunset-barnegat-light.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/06/28/ending-a-hour.html",
-	      	
-			"content_html": "<p>Ending a 48 hour fast this morning. Did it mainly to exercise an atrophied will-power. Positive experience and I’m going to think seriously about possibly doing this on a periodic schedule. Once a month? Once a quarter?</p>\n",
-			"date_published": "2018-06-28T06:46:07-04:00",
-			"url": "http://microblog.stevegio.net/2018/06/28/ending-a-hour.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/06/27/im-pleasantly-surprised.html",
-	      	
-			"content_html": "<p>I’m pleasantly surprised about how boring running iOS 12 beta is on my EDC iPhone X. This is the most stable beta I’ve installed.</p>\n",
-			"date_published": "2018-06-27T06:59:17-04:00",
-			"url": "http://microblog.stevegio.net/2018/06/27/im-pleasantly-surprised.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/06/24/ireddit.html",
-	      	
-			"content_html": "<p><a href=\"https://i.redd.it/tw9r9nqqxn511.jpg\">i.redd.it</a></p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/fab4c0d6bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-24T10:40:45-04:00",
-			"url": "http://microblog.stevegio.net/2018/06/24/ireddit.html"
 		}
 		
 	]
