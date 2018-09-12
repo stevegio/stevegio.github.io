@@ -1,9 +1,42 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Steve Giovannetti",
+	"icon": "https://micro.blog/gio/avatar.jpg",
 	"home_page_url": "http://microblog.stevegio.net/",
 	"feed_url": "http://microblog.stevegio.net/feed.json",
 	"items": [
+		
+		{
+			"id": "http://gio.micro.blog/2018/09/12/i-love-my.html",
+	      	
+			"content_html": "<p>I love my current iPhone X. It’s perfect. Even the notch. Will Apple release something today to tempt me to open up my wallet? I’m not sure. I won’t know for sure until later in the day. I’m on site with a customer all day so won’t be able to watch the event live. Hoping there are new software features that my X and Series 3 Apple Watch can leverage without new hardware but I’m not that confident in that outcome. 🍎📱⌚️</p>\n",
+			"date_published": "2018-09-12T08:18:31-04:00",
+			"url": "http://microblog.stevegio.net/2018/09/12/i-love-my.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/09/07/youd-think-hed.html",
+	      	
+			"content_html": "<p>You’d think he’d take off as I approached but this is a NJ Raccoon. They pretty much don’t give a damn.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/7c894b756c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-06T21:47:17-04:00",
+			"url": "http://microblog.stevegio.net/2018/09/06/youd-think-hed.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/09/06/interesting-analysis-of.html",
+	      	
+			"content_html": "<p>Interesting analysis of the Will Wheaton/Mastodon incident.</p>\n\n<p><a href=\"https://nolanlawson.com/2018/08/31/mastodon-and-the-challenges-of-abuse-in-a-federated-system/\">Mastodon and the challenges of abuse in a federated system</a></p>\n",
+			"date_published": "2018-09-05T22:11:25-04:00",
+			"url": "http://microblog.stevegio.net/2018/09/05/interesting-analysis-of.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/09/03/140956.html",
+	      	
+			"content_html": "<p>Currently reading “The Rook” by Daniel O’Malley. 📚</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/c635a1afe2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-03T10:09:56-04:00",
+			"url": "http://microblog.stevegio.net/2018/09/03/140956.html"
+		},
 		
 		{
 			"id": "http://gio.micro.blog/2018/09/02/millions-of-tiny.html",
@@ -171,38 +204,6 @@
 			"content_html": "<p>I like Slack but I don’t like how much it costs. Cost was one of the reasons I was using HipChat. Now what options do I have? Hangout Chats? 🤬</p>\n",
 			"date_published": "2018-07-27T17:02:02-04:00",
 			"url": "http://microblog.stevegio.net/2018/07/27/i-like-slack.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/07/24/my-normal-strategy.html",
-	      	
-			"content_html": "<p>My normal strategy of flying out of Newark on the first flight to avoid delays seems to be failing today. This does not bode well for the other four flights I need to take between now and Thursday.</p>\n",
-			"date_published": "2018-07-24T08:44:10-04:00",
-			"url": "http://microblog.stevegio.net/2018/07/24/my-normal-strategy.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/07/21/reading-the-threebody.html",
-	      	
-			"content_html": "<p>Reading “The Three-Body Problem” by Cixin Liu 📚</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/62d04d804a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-21T09:02:28-04:00",
-			"url": "http://microblog.stevegio.net/2018/07/21/reading-the-threebody.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/07/21/i-know-its.html",
-	      	
-			"content_html": "<p>I know it’s not indie but I really hope Flickr makes it. \n<a href=\"https://flic.kr/p/27SK6D2\">flic.kr/p/27SK6D2</a></p>\n",
-			"date_published": "2018-07-21T08:58:18-04:00",
-			"url": "http://microblog.stevegio.net/2018/07/21/i-know-its.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/07/21/the-sky-looks.html",
-	      	
-			"content_html": "<p>The sky looks like a bad spray paint job today.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/e5c84998ad.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-07-21T08:55:03-04:00",
-			"url": "http://microblog.stevegio.net/2018/07/21/the-sky-looks.html"
 		}
 		
 	]
