@@ -1,9 +1,42 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Steve Giovannetti",
+	"icon": "https://micro.blog/gio/avatar.jpg",
 	"home_page_url": "http://microblog.stevegio.net/",
 	"feed_url": "http://microblog.stevegio.net/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://gio.micro.blog/2018/09/12/i-love-my.html",
+	      	
+			"content_text": "I love my current iPhone X. It’s perfect. Even the...",
+			"date_published": "2018-09-12T08:18:31-04:00",
+			"url": "http://microblog.stevegio.net/2018/09/12/i-love-my.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/09/07/youd-think-hed.html",
+	      	
+			"content_text": "You’d think he’d take off as I approached but this...",
+			"date_published": "2018-09-06T21:47:17-04:00",
+			"url": "http://microblog.stevegio.net/2018/09/06/youd-think-hed.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/09/06/interesting-analysis-of.html",
+	      	
+			"content_text": "Interesting analysis of the Will Wheaton/Mastodon incident. Mastodon and the...",
+			"date_published": "2018-09-05T22:11:25-04:00",
+			"url": "http://microblog.stevegio.net/2018/09/05/interesting-analysis-of.html"
+		},
+		
+		{
+			"id": "http://gio.micro.blog/2018/09/03/140956.html",
+	      	
+			"content_text": "Currently reading “The Rook” by Daniel O’Malley. 📚\n\n\n",
+			"date_published": "2018-09-03T10:09:56-04:00",
+			"url": "http://microblog.stevegio.net/2018/09/03/140956.html"
+		},
 		
 		{
 			"id": "http://gio.micro.blog/2018/09/02/millions-of-tiny.html",
