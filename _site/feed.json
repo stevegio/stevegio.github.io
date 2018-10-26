@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://gio.micro.blog/2018/10/26/demon-deer.html",
+	      	
+			"content_html": "<p>Demon Deer</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/6f5a94d1c0.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-26T06:48:12-04:00",
+			"url": "http://microblog.stevegio.net/2018/10/26/demon-deer.html"
+		},
+		
+		{
 			"id": "http://gio.micro.blog/2018/10/24/my-hobonichi-remaining.html",
 	      	
 			"content_html": "<p>My Hobonichi \nRemaining pages dwindling \nIt’s replacement ready</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/88e8999197.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Just finished the series. Best books I’ve read in 5-10 years. I’m stunned.\nIf I had to pick “The Dark Forest“ was probably my favorite.</p>\n\n<p><img src=\"http://microblog.stevegio.net/uploads/2018/65eb4b3abb.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-26T08:00:11-04:00",
 			"url": "http://microblog.stevegio.net/2018/08/26/just-finished-the.html"
-		},
-		
-		{
-			"id": "http://gio.micro.blog/2018/08/25/the-sun-on.html",
-	      	
-			"content_html": "<p><a href=\"http://microblog.stevegio.net/uploads/2018/57270d3efe.jpg\"><img src=\"http://microblog.stevegio.net/uploads/2018/57270d3efe.jpg\" width=\"599\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>The sun on the waves in the water today is making them sparkle like diamonds.</p>\n\n",
-			"date_published": "2018-08-25T11:41:17-04:00",
-			"url": "http://microblog.stevegio.net/2018/08/25/the-sun-on.html"
 		}
 		
 	]
