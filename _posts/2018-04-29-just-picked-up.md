@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-29 12:48:43 -0400
+date: 2018-04-29 10:48:43 -0600
 guid: http://gio.micro.blog/2018/04/29/just-picked-up.html
 ---
 Just picked up this gem for $5 at my local shop. 🎵
