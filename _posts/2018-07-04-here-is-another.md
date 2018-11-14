@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-04 09:50:44 -0400
+date: 2018-07-04 07:50:44 -0600
 guid: http://gio.micro.blog/2018/07/04/here-is-another.html
 ---
 Here is another way to celebrate the 4th!
