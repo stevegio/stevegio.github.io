@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-26 16:19:29 -0400
+date: 2018-09-26 14:19:29 -0600
 guid: http://gio.micro.blog/2018/09/26/top-strangest-songs.html
 ---
 Top 3 strangest songs that choke me up:
