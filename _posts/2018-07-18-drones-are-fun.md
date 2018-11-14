@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-18 07:21:07 -0400
+date: 2018-07-18 05:21:07 -0600
 guid: http://gio.micro.blog/2018/07/18/drones-are-fun.html
 ---
 Drones are fun!
