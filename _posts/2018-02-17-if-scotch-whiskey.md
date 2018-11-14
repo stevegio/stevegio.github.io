@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-17 05:30:03 -0400
+date: 2018-02-17 03:30:03 -0600
 guid: http://gio.micro.blog/2018/02/17/if-scotch-whiskey.html
 ---
 If Scotch Whiskey is the water of life, this is...well...the opposite. 
