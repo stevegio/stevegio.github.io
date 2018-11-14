@@ -45,7 +45,7 @@ github_username: "stevegio"
 instagram_username: "stevegio"
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "US/Michigan"
+timezone: "US/Indiana-Starke"
 site_id: "390"
 gems: ["jekyll-paginate"]
 itunes_description: "Nerd from NJ. Proud dad. CTO of a security consultancy."
