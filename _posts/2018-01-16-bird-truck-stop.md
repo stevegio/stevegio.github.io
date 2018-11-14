@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-16 17:15:38 -0400
+date: 2018-01-16 15:15:38 -0600
 guid: http://gio.micro.blog/2018/01/16/bird-truck-stop.html
 ---
 Bird Truck Stop
