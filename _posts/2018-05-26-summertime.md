@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-26 09:00:45 -0400
+date: 2018-05-26 07:00:45 -0600
 guid: http://gio.micro.blog/2018/05/26/summertime.html
 ---
 Summertime 
