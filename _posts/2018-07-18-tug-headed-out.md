@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-18 07:19:35 -0400
+date: 2018-07-18 05:19:35 -0600
 guid: http://gio.micro.blog/2018/07/18/tug-headed-out.html
 ---
 Tug headed out to sea from the Barnegat Light Inlet.
