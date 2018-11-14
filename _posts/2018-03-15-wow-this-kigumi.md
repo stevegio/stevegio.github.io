@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-15 16:24:27 -0400
+date: 2018-03-15 14:24:27 -0600
 guid: http://gio.micro.blog/2018/03/15/wow-this-kigumi.html
 ---
 Wow. This Kigumi Museum is totally on my bucket list. I saw some of this work first hand in Japan. They do wonders there.
