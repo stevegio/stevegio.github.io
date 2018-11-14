@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-04-29 10:10:33 -0400
+date: 2017-04-29 08:10:33 -0600
 guid: http://gio.micro.blog/2017/04/29/the-nice-thing.html
 ---
 The nice thing about taking your kid to her sat morning FIT class is having a some quality time in Chelsea.
