@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-11 18:39:50 -0400
+date: 2018-03-11 16:39:50 -0600
 guid: http://gio.micro.blog/2018/03/11/at-feet-with.html
 ---
 
