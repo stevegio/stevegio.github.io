@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-10 22:57:11 -0400
+date: 2018-01-10 20:57:11 -0600
 guid: http://gio.micro.blog/2018/01/11/my-hopper-looks.html
 ---
 My hopper looks like a tricked out SUBARU WRX. 🤡
