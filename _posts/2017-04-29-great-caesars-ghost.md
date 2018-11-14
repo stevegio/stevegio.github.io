@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-04-29 16:55:22 -0400
+date: 2017-04-29 14:55:22 -0600
 guid: http://gio.micro.blog/2017/04/29/great-caesars-ghost.html
 ---
 Great Caesar's Ghost! Who knew Goslings Diet Ginger Beer was a thing?!? Tasty!
