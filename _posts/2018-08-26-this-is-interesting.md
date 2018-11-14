@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-26 09:28:58 -0400
+date: 2018-08-26 07:28:58 -0600
 guid: http://gio.micro.blog/2018/08/26/this-is-interesting.html
 ---
 This is interesting. Addresses the main issue Keybase is trying to fix.
