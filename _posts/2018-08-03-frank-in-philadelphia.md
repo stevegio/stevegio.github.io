@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-03 18:54:59 -0400
+date: 2018-08-03 16:54:59 -0600
 guid: http://gio.micro.blog/2018/08/03/frank-in-philadelphia.html
 ---
 Frank in Philadelphia.
