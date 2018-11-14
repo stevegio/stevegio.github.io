@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-05 22:10:41 -0400
+date: 2018-04-05 20:10:41 -0600
 guid: http://gio.micro.blog/2018/04/06/impossible-rock-formations.html
 ---
 Impossible rock formations. Faye Canyon, Sedona, AZ
