@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-12 06:47:18 -0400
+date: 2018-10-12 04:47:18 -0600
 guid: http://gio.micro.blog/2018/10/12/nice-try-hacker.html
 ---
 Nice try Hacker Man....
