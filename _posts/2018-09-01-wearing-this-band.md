@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-01 08:30:37 -0400
+date: 2018-09-01 06:30:37 -0600
 guid: http://gio.micro.blog/2018/09/01/wearing-this-band.html
 ---
 Wearing this band makes me feel like a retro future astronaut.
