@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-04-27 15:04:55 -0400
+date: 2017-04-27 13:04:55 -0600
 guid: http://gio.micro.blog/2017/04/27/testing-image-postsimg.html
 ---
 Testing image posts.
