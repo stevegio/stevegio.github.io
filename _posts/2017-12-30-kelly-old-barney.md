@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-30 11:45:25 -0400
+date: 2017-12-30 09:45:25 -0600
 guid: http://gio.micro.blog/2017/12/30/kelly-old-barney.html
 ---
 Kelly “Old Barney” Restaurant at Barnegat Light, NJ
