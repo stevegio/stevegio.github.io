@@ -3,7 +3,7 @@ layout: post
 title: "Santuario De Chimayo"
 microblog: false
 audio: 
-date: 2018-04-03 08:49:59 -0400
+date: 2018-04-03 06:49:59 -0600
 guid: http://gio.micro.blog/2018/04/03/santuario-de-chimayo.html
 ---
 
