@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-05 22:11:25 -0400
+date: 2018-09-05 20:11:25 -0600
 guid: http://gio.micro.blog/2018/09/06/interesting-analysis-of.html
 ---
 Interesting analysis of the Will Wheaton/Mastodon incident.
