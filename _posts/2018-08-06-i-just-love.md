@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-06 12:33:53 -0400
+date: 2018-08-06 10:33:53 -0600
 guid: http://gio.micro.blog/2018/08/06/i-just-love.html
 ---
 I just love this QAnon stuff. 
