@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-17 07:11:59 -0400
+date: 2018-10-17 05:11:59 -0600
 guid: http://gio.micro.blog/2018/10/17/i-missed-day.html
 ---
 I missed day 365 but damn I’m pretty proud of making it this far. Now if I can only earn that “Eating Less” badge.
