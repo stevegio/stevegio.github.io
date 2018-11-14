@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-22 15:39:59 -0400
+date: 2018-04-22 13:39:59 -0600
 guid: http://gio.micro.blog/2018/04/22/happy-earth-day.html
 ---
 Happy Earth Day
