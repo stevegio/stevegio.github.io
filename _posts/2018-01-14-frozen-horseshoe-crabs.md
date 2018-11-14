@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-14 16:25:21 -0400
+date: 2018-01-14 14:25:21 -0600
 guid: http://gio.micro.blog/2018/01/14/frozen-horseshoe-crabs.html
 ---
 Frozen Horseshoe Crabs on the beach. 
