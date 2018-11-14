@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-31 13:33:18 -0400
+date: 2017-12-31 11:33:18 -0600
 guid: http://gio.micro.blog/2017/12/31/todays-sea-glass.html
 ---
 Today’s Sea Glass Haul
