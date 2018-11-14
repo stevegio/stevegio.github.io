@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-21 09:02:28 -0400
+date: 2018-07-21 07:02:28 -0600
 guid: http://gio.micro.blog/2018/07/21/reading-the-threebody.html
 ---
 Reading “The Three-Body Problem” by Cixin Liu 📚
