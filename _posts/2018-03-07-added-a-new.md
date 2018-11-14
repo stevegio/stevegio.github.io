@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-07 10:25:12 -0400
+date: 2018-03-07 08:25:12 -0600
 guid: http://gio.micro.blog/2018/03/07/added-a-new.html
 ---
 
