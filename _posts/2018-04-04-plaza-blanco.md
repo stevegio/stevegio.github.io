@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-03 20:10:38 -0400
+date: 2018-04-03 18:10:38 -0600
 guid: http://gio.micro.blog/2018/04/04/plaza-blanco.html
 ---
 Plaza Blanco
