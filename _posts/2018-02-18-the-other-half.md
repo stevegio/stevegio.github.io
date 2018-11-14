@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-18 12:00:19 -0400
+date: 2018-02-18 10:00:19 -0600
 guid: http://gio.micro.blog/2018/02/18/the-other-half.html
 ---
 The other half is in my belly.
