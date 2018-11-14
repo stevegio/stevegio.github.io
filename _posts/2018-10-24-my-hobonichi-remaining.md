@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-24 09:12:00 -0400
+date: 2018-10-24 07:12:00 -0600
 guid: http://gio.micro.blog/2018/10/24/my-hobonichi-remaining.html
 ---
 My Hobonichi 
