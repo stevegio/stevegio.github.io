@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-26 06:48:12 -0400
+date: 2018-10-26 04:48:12 -0600
 guid: http://gio.micro.blog/2018/10/26/demon-deer.html
 ---
 Demon Deer
