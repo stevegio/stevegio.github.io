@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-04 07:37:19 -0400
+date: 2018-10-04 05:37:19 -0600
 guid: http://gio.micro.blog/2018/10/04/getting-a-excited.html
 ---
 Getting a excited about NY Comicon.
